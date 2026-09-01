@@ -33,7 +33,7 @@ function ProductCard({ rec, rank }: { rec: ProductRecommendation; rank: number }
       <div className="p-5">
         <div className="flex items-start justify-between gap-3 mb-3">
           <div className="flex items-start gap-3">
-            <span className="flex-shrink-0 w-8 h-8 rounded-full bg-gradient-to-br from-brand-400 to-rose-400 text-white flex items-center justify-center text-sm font-bold">
+            <span className="flex-shrink-0 w-8 h-8 rounded-full bg-brand-600 text-white flex items-center justify-center text-sm font-bold">
               {rank}
             </span>
             <div>
@@ -108,7 +108,7 @@ function ProductCard({ rec, rank }: { rec: ProductRecommendation; rank: number }
           </div>
         </div>
 
-        <div className="bg-brand-50 rounded-xl p-3 mb-2">
+        <div className="bg-brand-50 rounded-xl p-3 mb-2 border border-brand-100">
           <p className="text-xs font-medium text-brand-700 mb-1">
             {t('product.match')} {match_score.toFixed(1)} — {t('product.matchReasons')}
           </p>
@@ -132,7 +132,7 @@ function ProductCard({ rec, rank }: { rec: ProductRecommendation; rank: number }
             href={product.source_url}
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-block mt-3 text-xs text-brand-500 hover:text-brand-700 underline"
+            className="inline-block mt-3 text-xs text-brand-600 hover:text-brand-800 underline"
           >
             {t('product.viewOn', { source: product.source })}
           </a>
@@ -161,7 +161,7 @@ export default function RecommendationResults({ recommendations, categoryLabels 
         return (
           <section key={cat}>
             <h3 className="text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">
-              <span className="w-1.5 h-6 bg-gradient-to-b from-brand-400 to-rose-400 rounded-full" />
+              <span className="w-1.5 h-6 bg-brand-600 rounded-full" />
               {categoryLabels[cat] || cat}
             </h3>
             <div className="grid gap-4 lg:grid-cols-1">

@@ -2,18 +2,21 @@
 
 @theme {
   --font-sans: "Inter", "Noto Sans SC", system-ui, sans-serif;
-  --color-brand-50: #fdf4f3;
-  --color-brand-100: #fce8e6;
-  --color-brand-200: #f9d0cc;
-  --color-brand-300: #f4aba3;
-  --color-brand-400: #ec7a6f;
-  --color-brand-500: #e04f42;
-  --color-brand-600: #cc3326;
-  --color-brand-700: #ab2820;
-  --color-brand-800: #8e241e;
-  --color-brand-900: #76231e;
+  --color-brand-50: #faf5f6;
+  --color-brand-100: #f3e8eb;
+  --color-brand-200: #e8d0d6;
+  --color-brand-300: #d4a8b5;
+  --color-brand-400: #b86b82;
+  --color-brand-500: #8f2d4a;
+  --color-brand-600: #6b1f36;
+  --color-brand-700: #551a2c;
+  --color-brand-800: #451525;
+  --color-brand-900: #3a121f;
+  --color-accent: #e84d6f;
+  --color-safe: #1a4d3e;
+  --color-safe-light: #e8f3ef;
 }
 
 body {
-  @apply bg-gradient-to-br from-brand-50 via-white to-rose-50 min-h-screen text-gray-800 antialiased;
+  @apply bg-[#f7f6f5] min-h-screen text-gray-900 antialiased;
 }

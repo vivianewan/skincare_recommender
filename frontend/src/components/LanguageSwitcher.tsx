@@ -7,13 +7,13 @@ export default function LanguageSwitcher() {
   const { lang, setLang } = useLanguage();
 
   return (
-    <div className="flex items-center gap-1 bg-gray-100 rounded-lg p-0.5">
+    <div className="flex items-center gap-0.5 bg-gray-100 rounded-full p-0.5">
       {LANGS.map((l) => (
         <button
           key={l}
           type="button"
           onClick={() => setLang(l)}
-          className={`px-2.5 py-1 rounded-md text-xs font-medium transition-all ${
+          className={`px-2.5 py-1 rounded-full text-xs font-medium transition-all ${
             lang === l
               ? 'bg-white text-gray-900 shadow-sm'
               : 'text-gray-500 hover:text-gray-700'

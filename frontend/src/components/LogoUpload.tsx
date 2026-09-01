@@ -18,7 +18,7 @@ export default function LogoUpload() {
         {logoUrl ? (
           <img src={logoUrl} alt="Logo" className="w-full h-full object-cover" />
         ) : (
-          <div className="w-full h-full bg-gradient-to-br from-brand-400 to-rose-400 flex items-center justify-center text-white text-lg">
+          <div className="w-full h-full bg-brand-600 flex items-center justify-center text-white text-lg">
             ✨
           </div>
         )}

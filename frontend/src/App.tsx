@@ -59,9 +59,9 @@ function App() {
 
   if (!meta) {
     return (
-      <div className="min-h-screen flex items-center justify-center">
+      <div className="min-h-screen flex items-center justify-center bg-[#f7f6f5]">
         <div className="text-center">
-          <div className="w-12 h-12 border-4 border-brand-200 border-t-brand-500 rounded-full animate-spin mx-auto mb-4" />
+          <div className="w-12 h-12 border-4 border-brand-200 border-t-brand-600 rounded-full animate-spin mx-auto mb-4" />
           <p className="text-gray-500">{error || t('app.loading')}</p>
         </div>
       </div>
@@ -69,13 +69,15 @@ function App() {
   }
 
   return (
-    <div className="min-h-screen">
-      <header className="bg-white/80 backdrop-blur-md border-b border-gray-100 sticky top-0 z-50">
-        <div className="max-w-4xl mx-auto px-4 py-4 flex items-center justify-between gap-4">
+    <div className="min-h-screen bg-[#f7f6f5]">
+      <header className="bg-white border-b border-gray-200/80 sticky top-0 z-50">
+        <div className="max-w-3xl mx-auto px-5 py-4 flex items-center justify-between gap-4">
           <div className="flex items-center gap-3 min-w-0">
             <LogoUpload />
             <div className="min-w-0">
-              <h1 className="text-xl font-bold text-gray-900 truncate">{t('app.title')}</h1>
+              <h1 className="text-lg font-bold text-gray-900 tracking-tight truncate">
+                {t('app.title')}
+              </h1>
               <p className="text-xs text-gray-500 truncate">{t('app.subtitle')}</p>
             </div>
           </div>
@@ -84,7 +86,7 @@ function App() {
               <button
                 onClick={handleRefresh}
                 disabled={refreshing}
-                className="hidden sm:block text-xs px-3 py-1.5 rounded-lg border border-gray-200 text-gray-600 hover:bg-gray-50 disabled:opacity-50"
+                className="hidden sm:block text-xs px-3 py-1.5 rounded-full border border-gray-200 text-gray-600 hover:bg-gray-50 disabled:opacity-50"
               >
                 {refreshing ? t('app.refreshing') : t('app.refresh')}
               </button>
@@ -94,15 +96,15 @@ function App() {
         </div>
       </header>
 
-      <main className="max-w-4xl mx-auto px-4 py-8">
+      <main className="max-w-3xl mx-auto px-5 py-8">
         {step === 'form' ? (
           <>
-            <div className="text-center mb-10">
-              <h2 className="text-3xl font-bold text-gray-900 mb-3">{t('app.hero.title')}</h2>
-              <p className="text-gray-500 max-w-lg mx-auto">{t('app.hero.desc')}</p>
+            <div className="mb-8">
+              <h2 className="text-2xl font-bold text-gray-900 mb-2">{t('app.hero.title')}</h2>
+              <p className="text-gray-500 text-sm leading-relaxed">{t('app.hero.desc')}</p>
             </div>
 
-            <div className="bg-white rounded-3xl shadow-xl shadow-brand-100/50 p-6 sm:p-10 border border-gray-100">
+            <div className="bg-white rounded-3xl p-6 sm:p-8 border border-gray-200/80 shadow-sm">
               <SkinProfileForm meta={meta} onSubmit={handleSubmit} loading={loading} />
             </div>
           </>
@@ -118,7 +120,7 @@ function App() {
                   setStep('form');
                   setResults(null);
                 }}
-                className="px-4 py-2 rounded-xl border border-brand-200 text-brand-600 text-sm font-medium hover:bg-brand-50 flex-shrink-0"
+                className="px-4 py-2 rounded-full border border-gray-300 text-gray-700 text-sm font-medium hover:bg-gray-50 flex-shrink-0"
               >
                 {t('app.back')}
               </button>
@@ -136,7 +138,7 @@ function App() {
         )}
 
         {error && (
-          <div className="mt-4 p-4 bg-red-50 text-red-600 rounded-xl text-sm text-center">
+          <div className="mt-4 p-4 bg-red-50 text-red-600 rounded-2xl text-sm text-center">
             {error}
           </div>
         )}
