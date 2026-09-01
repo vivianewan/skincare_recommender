@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", "Noto Sans SC", system-ui, sans-serif;
+  --color-brand-50: #fdf4f3;
+  --color-brand-100: #fce8e6;
+  --color-brand-200: #f9d0cc;
+  --color-brand-300: #f4aba3;
+  --color-brand-400: #ec7a6f;
+  --color-brand-500: #e04f42;
+  --color-brand-600: #cc3326;
+  --color-brand-700: #ab2820;
+  --color-brand-800: #8e241e;
+  --color-brand-900: #76231e;
+}
+
+body {
+  @apply bg-gradient-to-br from-brand-50 via-white to-rose-50 min-h-screen text-gray-800 antialiased;
+}
