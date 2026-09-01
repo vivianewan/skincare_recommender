@@ -1,0 +1,5810 @@
+[
+  {
+    "id": "prod-cleanser-1",
+    "name": "Toleriane Hydrating Gentle Cleanser",
+    "brand": "La Roche-Posay",
+    "category": "cleanser",
+    "price": 16.99,
+    "rating": 4.6,
+    "review_count": 3240,
+    "ingredients": [
+      "Water",
+      "Glycerin",
+      "Ceramide NP",
+      "Niacinamide",
+      "Panthenol"
+    ],
+    "pros": [
+      "Very gentle, doesn't strip skin",
+      "Great for sensitive and dry skin",
+      "No fragrance, non-irritating",
+      "Leaves skin soft and hydrated"
+    ],
+    "cons": [
+      "Doesn't remove heavy makeup well",
+      "Slightly pricey for a cleanser"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "sensitive",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "dehydration",
+      "redness"
+    ],
+    "source_url": "https://www.sephora.com/product/toleriane-hydrating-gentle-cleanser-P469052",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-cleanser-2",
+    "name": "SA Smoothing Cleanser",
+    "brand": "CeraVe",
+    "category": "cleanser",
+    "price": 14.99,
+    "rating": 4.5,
+    "review_count": 5120,
+    "ingredients": [
+      "Water",
+      "Salicylic Acid",
+      "Niacinamide",
+      "Ceramide NP",
+      "Hyaluronic Acid"
+    ],
+    "pros": [
+      "Effectively clears pores and acne",
+      "Non-drying despite salicylic acid",
+      "Affordable and accessible",
+      "Lightweight gel texture"
+    ],
+    "cons": [
+      "Can be slightly drying with overuse",
+      "Not ideal for very sensitive skin"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "acne",
+      "pores",
+      "dehydration"
+    ],
+    "source_url": "https://www.sephora.com/product/cerave-sa-smoothing-cleanser-P469053",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-cleanser-3",
+    "name": "Beste No. 9 Jelly Cleanser",
+    "brand": "Drunk Elephant",
+    "category": "cleanser",
+    "price": 34.0,
+    "rating": 4.4,
+    "review_count": 1890,
+    "ingredients": [
+      "Water",
+      "Glycerin",
+      "Coconut-based surfactants",
+      "Cantaloupe extract"
+    ],
+    "pros": [
+      "Removes makeup effortlessly",
+      "Fun jelly texture",
+      "No SLS, gentle formula",
+      "Works for all skin types"
+    ],
+    "cons": [
+      "Expensive for daily use",
+      "Strong melon scent bothers some"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "oily"
+    ],
+    "addresses_concerns": [
+      "dullness"
+    ],
+    "source_url": "https://www.sephora.com/product/drunk-elephant-beste-no-9-jelly-cleanser-P433526",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-toner-1",
+    "name": "Glow Tonic",
+    "brand": "Pixi",
+    "category": "toner",
+    "price": 18.0,
+    "rating": 4.3,
+    "review_count": 8900,
+    "ingredients": [
+      "Water",
+      "Glycolic Acid",
+      "Aloe Vera",
+      "Ginseng",
+      "Glycerin"
+    ],
+    "pros": [
+      "Instant glow and brightness",
+      "Gentle exfoliation",
+      "Affordable cult favorite",
+      "Smooths skin texture"
+    ],
+    "cons": [
+      "Can irritate sensitive skin",
+      "Strong scent",
+      "Not for daily use on sensitive types"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "dullness",
+      "dark_spots",
+      "pores"
+    ],
+    "source_url": "https://www.sephora.com/product/pixi-glow-tonic-P416218",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-toner-2",
+    "name": "Ultra Facial Toner",
+    "brand": "Kiehl's",
+    "category": "toner",
+    "price": 24.0,
+    "rating": 4.5,
+    "review_count": 2100,
+    "ingredients": [
+      "Water",
+      "Squalane",
+      "Avocado Oil",
+      "Vitamin E",
+      "Glycerin"
+    ],
+    "pros": [
+      "Deeply hydrating toner",
+      "Alcohol-free formula",
+      "Preps skin for serums",
+      "Gentle for dry skin"
+    ],
+    "cons": [
+      "Slightly oily feel for oily skin",
+      "Premium price point"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "sensitive",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "dehydration",
+      "redness"
+    ],
+    "source_url": "https://www.sephora.com/product/kiehls-ultra-facial-toner-P378614",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-serum-1",
+    "name": "Niacinamide 10% + Zinc 1%",
+    "brand": "The Ordinary",
+    "category": "serum",
+    "price": 6.5,
+    "rating": 4.4,
+    "review_count": 15600,
+    "ingredients": [
+      "Water",
+      "Niacinamide",
+      "Zinc PCA",
+      "Pentylene Glycol",
+      "Tamarind Seed Gum"
+    ],
+    "pros": [
+      "Visibly reduces pores and oil",
+      "Affordable powerhouse",
+      "Helps with acne and dark spots",
+      "Lightweight, layers well"
+    ],
+    "cons": [
+      "Can pill under certain moisturizers",
+      "Initial purging possible",
+      "Texture can feel sticky"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "acne",
+      "pores",
+      "dark_spots",
+      "oiliness"
+    ],
+    "source_url": "https://www.sephora.com/product/the-ordinary-niacinamide-10-zinc-1-P427421",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-serum-2",
+    "name": "Hyaluronic Acid 2% + B5",
+    "brand": "The Ordinary",
+    "category": "serum",
+    "price": 8.9,
+    "rating": 4.5,
+    "review_count": 12300,
+    "ingredients": [
+      "Water",
+      "Hyaluronic Acid",
+      "Sodium Hyaluronate",
+      "Panthenol",
+      "Glycerin"
+    ],
+    "pros": [
+      "Intense hydration boost",
+      "Plumps fine lines",
+      "Works on all skin types",
+      "Best applied on damp skin"
+    ],
+    "cons": [
+      "Can feel tacky if over-applied",
+      "Needs moisturizer on top to seal in"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "combination",
+      "sensitive",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "dehydration",
+      "aging",
+      "fine_lines"
+    ],
+    "source_url": "https://www.sephora.com/product/the-ordinary-hyaluronic-acid-2-b5-P427419",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-serum-3",
+    "name": "C E Ferulic with 15% L-Ascorbic Acid",
+    "brand": "SkinCeuticals",
+    "category": "serum",
+    "price": 182.0,
+    "rating": 4.7,
+    "review_count": 4500,
+    "ingredients": [
+      "Water",
+      "L-Ascorbic Acid",
+      "Alpha Tocopherol",
+      "Ferulic Acid",
+      "Panthenol"
+    ],
+    "pros": [
+      "Gold standard vitamin C serum",
+      "Dramatic brightening results",
+      "Protects against environmental damage",
+      "Firms and evens skin tone"
+    ],
+    "cons": [
+      "Very expensive",
+      "Strong smell",
+      "Oxidizes quickly after opening"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "dry"
+    ],
+    "addresses_concerns": [
+      "dark_spots",
+      "aging",
+      "dullness",
+      "sagging"
+    ],
+    "source_url": "https://www.sephora.com/product/skinceuticals-c-e-ferulic-P247407",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-serum-4",
+    "name": "Retinol 0.5% in Squalane",
+    "brand": "The Ordinary",
+    "category": "serum",
+    "price": 8.9,
+    "rating": 4.3,
+    "review_count": 7800,
+    "ingredients": [
+      "Squalane",
+      "Retinol",
+      "Tocopherol"
+    ],
+    "pros": [
+      "Effective anti-aging at low price",
+      "Squalane base minimizes irritation",
+      "Smooths fine lines over time",
+      "Improves skin texture"
+    ],
+    "cons": [
+      "Initial dryness and peeling",
+      "Must use sunscreen during day",
+      "Not for sensitive beginners"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "oily"
+    ],
+    "addresses_concerns": [
+      "aging",
+      "dullness",
+      "pores",
+      "fine_lines"
+    ],
+    "source_url": "https://www.sephora.com/product/the-ordinary-retinol-0-5-in-squalane-P427424",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-day-1",
+    "name": "Ultra Facial Cream",
+    "brand": "Kiehl's",
+    "category": "day_cream",
+    "price": 36.0,
+    "rating": 4.6,
+    "review_count": 6700,
+    "ingredients": [
+      "Water",
+      "Squalane",
+      "Glycerin",
+      "Glacial Glycoprotein",
+      "Ceramide NP"
+    ],
+    "pros": [
+      "24-hour hydration",
+      "Lightweight for day use",
+      "Works under makeup",
+      "Suitable for all skin types"
+    ],
+    "cons": [
+      "Not rich enough for very dry winter skin",
+      "Contains fragrance"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal",
+      "combination",
+      "sensitive"
+    ],
+    "addresses_concerns": [
+      "dehydration"
+    ],
+    "source_url": "https://www.sephora.com/product/kiehls-ultra-facial-cream-P421706",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-day-2",
+    "name": "Protini Polypeptide Cream",
+    "brand": "Drunk Elephant",
+    "category": "day_cream",
+    "price": 68.0,
+    "rating": 4.5,
+    "review_count": 3200,
+    "ingredients": [
+      "Water",
+      "Signal Peptides",
+      "Pygmy Waterlily",
+      "Amino Acids",
+      "Soybean Folic Acid"
+    ],
+    "pros": [
+      "Firms and strengthens skin",
+      "Lightweight gel-cream texture",
+      "Great for combination skin",
+      "Improves elasticity"
+    ],
+    "cons": [
+      "High price point",
+      "May not be moisturizing enough for dry skin"
+    ],
+    "suitable_skin_types": [
+      "combination",
+      "normal",
+      "oily"
+    ],
+    "addresses_concerns": [
+      "aging",
+      "dehydration",
+      "sagging"
+    ],
+    "source_url": "https://www.sephora.com/product/drunk-elephant-protini-polypeptide-cream-P433528",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-day-3",
+    "name": "Moisturizing Cream",
+    "brand": "CeraVe",
+    "category": "day_cream",
+    "price": 18.99,
+    "rating": 4.7,
+    "review_count": 9800,
+    "ingredients": [
+      "Water",
+      "Ceramide NP",
+      "Ceramide AP",
+      "Ceramide EOP",
+      "Hyaluronic Acid",
+      "Niacinamide"
+    ],
+    "pros": [
+      "Restores skin barrier",
+      "Affordable and effective",
+      "Non-comedogenic",
+      "Works for face and body"
+    ],
+    "cons": [
+      "Thick texture for oily skin",
+      "Basic packaging"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "sensitive",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "dehydration",
+      "redness"
+    ],
+    "source_url": "https://www.sephora.com/product/cerave-moisturizing-cream-P422641",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-night-1",
+    "name": "Lala Retro Whipped Cream",
+    "brand": "Drunk Elephant",
+    "category": "night_cream",
+    "price": 60.0,
+    "rating": 4.4,
+    "review_count": 2800,
+    "ingredients": [
+      "Water",
+      "Ceramide AP",
+      "Ceramide NP",
+      "African Oil Blend",
+      "Sodium Hyaluronate"
+    ],
+    "pros": [
+      "Rich overnight nourishment",
+      "Restores barrier while sleeping",
+      "Whipped texture feels luxurious",
+      "Wakes up with plump skin"
+    ],
+    "cons": [
+      "Too rich for oily skin",
+      "Expensive"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal",
+      "sensitive"
+    ],
+    "addresses_concerns": [
+      "dehydration",
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/drunk-elephant-lala-retro-whipped-cream-P433527",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-night-2",
+    "name": "A.G.E. Interrupter Advanced",
+    "brand": "SkinCeuticals",
+    "category": "night_cream",
+    "price": 182.0,
+    "rating": 4.6,
+    "review_count": 1200,
+    "ingredients": [
+      "Water",
+      "Proxylane",
+      "Blueberry Extract",
+      "Phytosphingosine",
+      "Glycerin"
+    ],
+    "pros": [
+      "Advanced anti-glycation formula",
+      "Visibly firms mature skin",
+      "Reduces crepiness",
+      "Dermatologist recommended"
+    ],
+    "cons": [
+      "Very expensive",
+      "Heavy texture",
+      "Strong scent"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "aging",
+      "sagging"
+    ],
+    "source_url": "https://www.sephora.com/product/skinceuticals-age-interrupter-advanced-P510256",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-night-3",
+    "name": "PM Facial Moisturizing Lotion",
+    "brand": "CeraVe",
+    "category": "night_cream",
+    "price": 16.99,
+    "rating": 4.6,
+    "review_count": 7200,
+    "ingredients": [
+      "Water",
+      "Niacinamide",
+      "Ceramide NP",
+      "Hyaluronic Acid",
+      "Niacinamide"
+    ],
+    "pros": [
+      "Contains niacinamide for repair",
+      "Lightweight night lotion",
+      "Great value",
+      "Non-irritating formula"
+    ],
+    "cons": [
+      "Not rich enough for very dry skin",
+      "Basic feel"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "dehydration",
+      "pores",
+      "acne"
+    ],
+    "source_url": "https://www.sephora.com/product/cerave-pm-facial-moisturizing-lotion-P422643",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-eye-1",
+    "name": "Ceramide Hydrating Eye Cream",
+    "brand": "CeraVe",
+    "category": "eye_cream",
+    "price": 19.99,
+    "rating": 4.4,
+    "review_count": 3400,
+    "ingredients": [
+      "Water",
+      "Ceramide NP",
+      "Hyaluronic Acid",
+      "Niacinamide",
+      "Marine Algae"
+    ],
+    "pros": [
+      "Gentle for sensitive eye area",
+      "Affordable daily eye cream",
+      "Reduces dryness around eyes",
+      "Fragrance-free"
+    ],
+    "cons": [
+      "Won't dramatically reduce wrinkles",
+      "Small tube"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "sensitive",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "dehydration",
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/cerave-eye-repair-cream-P422644",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-eye-2",
+    "name": "A.G.E. Eye Complex",
+    "brand": "SkinCeuticals",
+    "category": "eye_cream",
+    "price": 102.0,
+    "rating": 4.5,
+    "review_count": 890,
+    "ingredients": [
+      "Water",
+      "Proxylane",
+      "Blueberry Extract",
+      "Caffeine",
+      "Glycerin"
+    ],
+    "pros": [
+      "Reduces dark circles and puffiness",
+      "Firms under-eye area",
+      "Visible results in weeks",
+      "Luxurious texture"
+    ],
+    "cons": [
+      "Very expensive",
+      "Small amount for the price"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "dry",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "aging",
+      "dark_spots",
+      "sagging"
+    ],
+    "source_url": "https://www.sephora.com/product/skinceuticals-age-eye-complex-P247408",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-eye-3",
+    "name": "C-Tango Multivitamin Eye Cream",
+    "brand": "Drunk Elephant",
+    "category": "eye_cream",
+    "price": 54.0,
+    "rating": 4.3,
+    "review_count": 1500,
+    "ingredients": [
+      "Water",
+      "Vitamin C",
+      "Peptides",
+      "Cucumber Extract",
+      "Glycerin"
+    ],
+    "pros": [
+      "Brightens dark circles",
+      "Lightweight for day use",
+      "8 peptides for firming",
+      "No irritation reported"
+    ],
+    "cons": [
+      "Moderate price",
+      "Takes time to see results"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "oily"
+    ],
+    "addresses_concerns": [
+      "dark_spots",
+      "aging",
+      "dullness",
+      "sagging"
+    ],
+    "source_url": "https://www.sephora.com/product/drunk-elephant-c-tango-multivitamin-eye-cream-P433529",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-sun-1",
+    "name": "Unseen Sunscreen SPF 40",
+    "brand": "Supergoop!",
+    "category": "sunscreen",
+    "price": 38.0,
+    "rating": 4.5,
+    "review_count": 5600,
+    "ingredients": [
+      "Water",
+      "Avobenzone",
+      "Homosalate",
+      "Octisalate",
+      "Red Algae",
+      "Frankincense"
+    ],
+    "pros": [
+      "Invisible finish on all skin tones",
+      "Works as makeup primer",
+      "No white cast",
+      "Lightweight gel formula"
+    ],
+    "cons": [
+      "Chemical sunscreen not for sensitive",
+      "Slightly silicone feel",
+      "Needs reapplication"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "aging",
+      "dark_spots"
+    ],
+    "source_url": "https://www.sephora.com/product/supergoop-unseen-sunscreen-spf-40-P433530",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-sun-2",
+    "name": "Mineral Sunscreen SPF 30",
+    "brand": "CeraVe",
+    "category": "sunscreen",
+    "price": 17.99,
+    "rating": 4.3,
+    "review_count": 4100,
+    "ingredients": [
+      "Water",
+      "Zinc Oxide",
+      "Titanium Dioxide",
+      "Ceramide NP",
+      "Niacinamide"
+    ],
+    "pros": [
+      "Mineral formula for sensitive skin",
+      "Contains ceramides",
+      "Affordable",
+      "Fragrance-free"
+    ],
+    "cons": [
+      "Slight white cast on deeper skin tones",
+      "Thick texture"
+    ],
+    "suitable_skin_types": [
+      "sensitive",
+      "dry",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "redness",
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/cerave-hydrating-mineral-sunscreen-P469054",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-mask-1",
+    "name": "Watermelon Glow Sleeping Mask",
+    "brand": "Glow Recipe",
+    "category": "mask",
+    "price": 45.0,
+    "rating": 4.4,
+    "review_count": 3800,
+    "ingredients": [
+      "Water",
+      "Watermelon Extract",
+      "Hyaluronic Acid",
+      "AHA",
+      "Peony Root"
+    ],
+    "pros": [
+      "Wake up with glowing skin",
+      "Smells amazing",
+      "Gentle overnight exfoliation",
+      "Hydrating and brightening"
+    ],
+    "cons": [
+      "Can be sticky on pillow",
+      "Scented - not for fragrance-sensitive",
+      "Pricey for a mask"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "dry"
+    ],
+    "addresses_concerns": [
+      "dullness",
+      "dehydration"
+    ],
+    "source_url": "https://www.sephora.com/product/glow-recipe-watermelon-glow-sleeping-mask-P433531",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-mask-2",
+    "name": "Umbrian Clay Pore Purifying Face Mask",
+    "brand": "Fresh",
+    "category": "mask",
+    "price": 62.0,
+    "rating": 4.5,
+    "review_count": 1900,
+    "ingredients": [
+      "Water",
+      "Umbrian Clay",
+      "Sandstone",
+      "Chamomile",
+      "Lavender Water"
+    ],
+    "pros": [
+      "Deeply cleans pores",
+      "Mattifies oily skin",
+      "Immediate results",
+      "Luxurious spa feel"
+    ],
+    "cons": [
+      "Very drying for dry skin",
+      "Expensive",
+      "Contains fragrance"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "pores",
+      "acne",
+      "oiliness"
+    ],
+    "source_url": "https://www.sephora.com/product/fresh-umbrian-clay-pore-purifying-face-mask-P378615",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-mask-3",
+    "name": "Babyfacial",
+    "brand": "Drunk Elephant",
+    "category": "mask",
+    "price": 80.0,
+    "rating": 4.6,
+    "review_count": 2400,
+    "ingredients": [
+      "Water",
+      "Glycolic Acid",
+      "Tartaric Acid",
+      "Citric Acid",
+      "Salicylic Acid"
+    ],
+    "pros": [
+      "Professional-level exfoliation at home",
+      "Dramatically smooths skin",
+      "Reduces fine lines and pores",
+      "Visible glow after one use"
+    ],
+    "cons": [
+      "Strong - can cause redness",
+      "Not for sensitive skin",
+      "Expensive",
+      "Only use once a week"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "oily",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "dullness",
+      "aging",
+      "pores",
+      "dark_spots",
+      "fine_lines"
+    ],
+    "source_url": "https://www.sephora.com/product/drunk-elephant-babyfacial-P433532",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-cleanser-4",
+    "name": "Gentle Skin Cleanser",
+    "brand": "Cetaphil",
+    "category": "cleanser",
+    "price": 11.99,
+    "rating": 4.5,
+    "review_count": 22000,
+    "ingredients": [
+      "Water",
+      "Cetyl Alcohol",
+      "Propylene Glycol",
+      "Sodium Lauryl Sulfate",
+      "Stearyl Alcohol"
+    ],
+    "pros": [
+      "Dermatologist recommended",
+      "Ultra gentle for sensitive skin",
+      "Non-comedogenic",
+      "Affordable daily cleanser"
+    ],
+    "cons": [
+      "Doesn't foam much",
+      "May not remove waterproof makeup"
+    ],
+    "suitable_skin_types": [
+      "sensitive",
+      "dry",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "redness",
+      "dehydration"
+    ],
+    "source_url": "https://www.sephora.com/product/cetaphil-gentle-skin-cleanser-P269122",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-cleanser-5",
+    "name": "Pure Skin Face Cleanser",
+    "brand": "First Aid Beauty",
+    "category": "cleanser",
+    "price": 22.0,
+    "rating": 4.4,
+    "review_count": 3100,
+    "ingredients": [
+      "Water",
+      "Glycerin",
+      "Aloe Vera",
+      "Allantoin",
+      "Colloidal Oatmeal"
+    ],
+    "pros": [
+      "Calms irritated skin",
+      "Creamy non-stripping formula",
+      "Works for eczema-prone skin",
+      "Fragrance-free"
+    ],
+    "cons": [
+      "Small bottle for price",
+      "Not ideal for heavy makeup removal"
+    ],
+    "suitable_skin_types": [
+      "sensitive",
+      "dry",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "redness",
+      "dehydration"
+    ],
+    "source_url": "https://www.sephora.com/product/first-aid-beauty-pure-skin-face-cleanser-P421707",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-cleanser-6",
+    "name": "Effaclar Purifying Foaming Gel",
+    "brand": "La Roche-Posay",
+    "category": "cleanser",
+    "price": 15.99,
+    "rating": 4.6,
+    "review_count": 4800,
+    "ingredients": [
+      "Water",
+      "Zinc PCA",
+      "Glycerin",
+      "Citric Acid",
+      "Sodium Laureth Sulfate"
+    ],
+    "pros": [
+      "Controls oil all day",
+      "Deep cleans without over-drying",
+      "Reduces breakouts",
+      "Lightweight foam"
+    ],
+    "cons": [
+      "Can feel tight on dry skin",
+      "Contains sulfates"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "acne",
+      "oiliness",
+      "pores"
+    ],
+    "source_url": "https://www.sephora.com/product/la-roche-posay-effaclar-purifying-foaming-gel-P421708",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-cleanser-7",
+    "name": "Rice Wash Skin-Softening Cleanser",
+    "brand": "Tatcha",
+    "category": "cleanser",
+    "price": 38.0,
+    "rating": 4.5,
+    "review_count": 2100,
+    "ingredients": [
+      "Water",
+      "Rice Powder",
+      "Hyaluronic Acid",
+      "Okinawa Algae",
+      "Japanese Rice Bran"
+    ],
+    "pros": [
+      "Luxurious creamy texture",
+      "Brightens dull skin",
+      "Gentle daily exfoliation",
+      "Leaves skin silky"
+    ],
+    "cons": [
+      "Expensive",
+      "Light scent may bother some"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "dullness",
+      "dehydration"
+    ],
+    "source_url": "https://www.sephora.com/product/tatcha-rice-wash-P421709",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-cleanser-8",
+    "name": "Superfood Cleanser",
+    "brand": "Youth To The People",
+    "category": "cleanser",
+    "price": 36.0,
+    "rating": 4.6,
+    "review_count": 5600,
+    "ingredients": [
+      "Water",
+      "Kale",
+      "Spinach",
+      "Green Tea",
+      "Vitamin E"
+    ],
+    "pros": [
+      "Antioxidant-rich formula",
+      "Gentle gel cleanser",
+      "Vegan and cruelty-free",
+      "Removes makeup well"
+    ],
+    "cons": [
+      "Pricey for cleanser size",
+      "Herbal scent"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "oily"
+    ],
+    "addresses_concerns": [
+      "dullness",
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/youth-to-the-people-superfood-cleanser-P421710",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-toner-3",
+    "name": "Glycolic Acid 7% Toning Solution",
+    "brand": "The Ordinary",
+    "category": "toner",
+    "price": 9.8,
+    "rating": 4.3,
+    "review_count": 9800,
+    "ingredients": [
+      "Water",
+      "Glycolic Acid",
+      "Aloe Vera",
+      "Ginseng",
+      "Tasmanian Pepperberry"
+    ],
+    "pros": [
+      "Affordable exfoliating toner",
+      "Smooths texture quickly",
+      "Brightens complexion",
+      "Reduces fine lines"
+    ],
+    "cons": [
+      "Tingling sensation",
+      "Not for sensitive skin",
+      "Strong for beginners"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "dullness",
+      "fine_lines",
+      "dark_spots",
+      "pores"
+    ],
+    "source_url": "https://www.sephora.com/product/the-ordinary-glycolic-acid-7-toning-solution-P427422",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-toner-4",
+    "name": "Watermelon Glow PHA+BHA Toner",
+    "brand": "Glow Recipe",
+    "category": "toner",
+    "price": 34.0,
+    "rating": 4.4,
+    "review_count": 4200,
+    "ingredients": [
+      "Water",
+      "Watermelon Extract",
+      "PHA",
+      "BHA",
+      "Cactus Water"
+    ],
+    "pros": [
+      "Gentle daily exfoliation",
+      "Hydrating and pore-refining",
+      "Pleasant scent",
+      "No irritation for most"
+    ],
+    "cons": [
+      "Scented formula",
+      "Pricey",
+      "Can pill with some serums"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "oily"
+    ],
+    "addresses_concerns": [
+      "pores",
+      "dullness",
+      "oiliness"
+    ],
+    "source_url": "https://www.sephora.com/product/glow-recipe-watermelon-glow-pha-bha-toner-P421711",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-toner-5",
+    "name": "Facial Treatment Essence",
+    "brand": "SK-II",
+    "category": "toner",
+    "price": 99.0,
+    "rating": 4.6,
+    "review_count": 3400,
+    "ingredients": [
+      "Water",
+      "Pitera",
+      "Galactomyces Ferment",
+      "Niacinamide",
+      "Panthenol"
+    ],
+    "pros": [
+      "Iconic brightening essence",
+      "Transforms dull skin",
+      "Improves texture over time",
+      "Luxurious ritual"
+    ],
+    "cons": [
+      "Very expensive",
+      "Distinct yeast smell",
+      "Results take weeks"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "dry",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "dullness",
+      "fine_lines",
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/sk-ii-facial-treatment-essence-P421712",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-toner-6",
+    "name": "Milky Toner",
+    "brand": "Laneige",
+    "category": "toner",
+    "price": 28.0,
+    "rating": 4.5,
+    "review_count": 2800,
+    "ingredients": [
+      "Water",
+      "Ceramide",
+      "Hyaluronic Acid",
+      "White Leaf Tea",
+      "Glycerin"
+    ],
+    "pros": [
+      "Deeply nourishing milky texture",
+      "Strengthens skin barrier",
+      "K-beauty favorite",
+      "Great for dry skin"
+    ],
+    "cons": [
+      "Too rich for oily skin",
+      "Contains fragrance"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "sensitive",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "dehydration",
+      "redness"
+    ],
+    "source_url": "https://www.sephora.com/product/laneige-milky-toner-P421713",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-serum-5",
+    "name": "Good Genes All-In-One Lactic Acid",
+    "brand": "Sunday Riley",
+    "category": "serum",
+    "price": 85.0,
+    "rating": 4.5,
+    "review_count": 6200,
+    "ingredients": [
+      "Water",
+      "Lactic Acid",
+      "Licorice",
+      "Lemongrass",
+      "Aloe Vera"
+    ],
+    "pros": [
+      "Instant glow and smoothness",
+      "Reduces dark spots",
+      "Gentle AHA for beginners",
+      "Cult favorite"
+    ],
+    "cons": [
+      "Expensive",
+      "Strong scent",
+      "Can irritate sensitive skin"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "dry"
+    ],
+    "addresses_concerns": [
+      "dullness",
+      "dark_spots",
+      "fine_lines"
+    ],
+    "source_url": "https://www.sephora.com/product/sunday-riley-good-genes-P421714",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-serum-6",
+    "name": "Discoloration Correcting Serum",
+    "brand": "Good Molecules",
+    "category": "serum",
+    "price": 14.0,
+    "rating": 4.3,
+    "review_count": 4500,
+    "ingredients": [
+      "Water",
+      "Tranexamic Acid",
+      "Niacinamide",
+      "Glycerin",
+      "Panthenol"
+    ],
+    "pros": [
+      "Affordable dark spot treatment",
+      "Fades hyperpigmentation",
+      "Gentle for daily use",
+      "Layers well"
+    ],
+    "cons": [
+      "Slow results",
+      "Can feel sticky",
+      "Small bottle"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "oily"
+    ],
+    "addresses_concerns": [
+      "dark_spots",
+      "dullness"
+    ],
+    "source_url": "https://www.sephora.com/product/good-molecules-discoloration-correcting-serum-P421715",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-serum-7",
+    "name": "Multi-Peptide + HA Serum",
+    "brand": "The Ordinary",
+    "category": "serum",
+    "price": 19.9,
+    "rating": 4.4,
+    "review_count": 5600,
+    "ingredients": [
+      "Water",
+      "Matrixyl",
+      "Argirelox",
+      "Hyaluronic Acid",
+      "Glycerin"
+    ],
+    "pros": [
+      "Multiple peptides for firming",
+      "Affordable anti-aging",
+      "Lightweight texture",
+      "Good for sagging skin"
+    ],
+    "cons": [
+      "Takes months for visible results",
+      "Can pill under makeup"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "dry",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "sagging",
+      "fine_lines",
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/the-ordinary-multi-peptide-ha-serum-P421716",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-serum-8",
+    "name": "Azelaic Acid Suspension 10%",
+    "brand": "The Ordinary",
+    "category": "serum",
+    "price": 10.5,
+    "rating": 4.2,
+    "review_count": 8900,
+    "ingredients": [
+      "Water",
+      "Azelaic Acid",
+      "Dimethicone",
+      "Tocopherol"
+    ],
+    "pros": [
+      "Reduces redness and acne",
+      "Brightens dark spots",
+      "Gentle for sensitive skin",
+      "Very affordable"
+    ],
+    "cons": [
+      "Silicone texture feels odd",
+      "Can pill",
+      "Mild tingling"
+    ],
+    "suitable_skin_types": [
+      "sensitive",
+      "oily",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "acne",
+      "redness",
+      "dark_spots"
+    ],
+    "source_url": "https://www.sephora.com/product/the-ordinary-azelaic-acid-suspension-10-P421717",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-serum-9",
+    "name": "Luna Sleeping Night Oil",
+    "brand": "Sunday Riley",
+    "category": "serum",
+    "price": 55.0,
+    "rating": 4.4,
+    "review_count": 3800,
+    "ingredients": [
+      "Squalane",
+      "Retinol",
+      "Blue Tansy",
+      "Chamomile",
+      "Avocado Oil"
+    ],
+    "pros": [
+      "Gentle retinol for beginners",
+      "Calms while treating",
+      "Reduces fine lines overnight",
+      "Beautiful blue color"
+    ],
+    "cons": [
+      "Expensive",
+      "Oily texture",
+      "Blue tansy scent"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "fine_lines",
+      "aging",
+      "dullness"
+    ],
+    "source_url": "https://www.sephora.com/product/sunday-riley-luna-sleeping-night-oil-P421718",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-serum-10",
+    "name": "Alpha Arbutin 2% + HA",
+    "brand": "The Ordinary",
+    "category": "serum",
+    "price": 11.5,
+    "rating": 4.3,
+    "review_count": 7200,
+    "ingredients": [
+      "Water",
+      "Alpha Arbutin",
+      "Hyaluronic Acid",
+      "Glycerin"
+    ],
+    "pros": [
+      "Targets dark spots gently",
+      "Affordable brightening",
+      "Safe for sensitive skin",
+      "Lightweight"
+    ],
+    "cons": [
+      "Slow results",
+      "Need consistent use for months"
+    ],
+    "suitable_skin_types": [
+      "sensitive",
+      "dry",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "dark_spots",
+      "dullness"
+    ],
+    "source_url": "https://www.sephora.com/product/the-ordinary-alpha-arbutin-2-ha-P421719",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-day-4",
+    "name": "The Water Cream",
+    "brand": "Tatcha",
+    "category": "day_cream",
+    "price": 69.0,
+    "rating": 4.5,
+    "review_count": 4100,
+    "ingredients": [
+      "Water",
+      "Japanese Wild Rose",
+      "Leopard Lily",
+      "Hadasei-3",
+      "Glycerin"
+    ],
+    "pros": [
+      "Oil-free hydration",
+      "Minimizes pores",
+      "Lightweight gel texture",
+      "Works under makeup"
+    ],
+    "cons": [
+      "Expensive",
+      "Not enough for very dry skin"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "oiliness",
+      "pores",
+      "dehydration"
+    ],
+    "source_url": "https://www.sephora.com/product/tatcha-the-water-cream-P421720",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-day-5",
+    "name": "Dramatically Different Moisturizing Gel",
+    "brand": "Clinique",
+    "category": "day_cream",
+    "price": 32.0,
+    "rating": 4.4,
+    "review_count": 5200,
+    "ingredients": [
+      "Water",
+      "Hyaluronic Acid",
+      "Glycerin",
+      "Urea",
+      "Aloe Vera"
+    ],
+    "pros": [
+      "Oil-free gel formula",
+      "Absorbs instantly",
+      "Classic dermatologist pick",
+      "Great for oily skin"
+    ],
+    "cons": [
+      "Contains fragrance",
+      "Basic formula",
+      "Pump can waste product"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "oiliness",
+      "dehydration"
+    ],
+    "source_url": "https://www.sephora.com/product/clinique-dramatically-different-moisturizing-gel-P421721",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-day-6",
+    "name": "Barrier+ Lipid-Boost Body Lotion",
+    "brand": "Skinfix",
+    "category": "day_cream",
+    "price": 28.0,
+    "rating": 4.6,
+    "review_count": 1900,
+    "ingredients": [
+      "Water",
+      "Ceramide NP",
+      "Cholesterol",
+      "Fatty Acids",
+      "Squalane"
+    ],
+    "pros": [
+      "Repairs damaged barrier",
+      "Rich but not greasy",
+      "Clean ingredients",
+      "Great for eczema"
+    ],
+    "cons": [
+      "Thick for oily skin",
+      "Face-sized jar is small"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "sensitive",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "dehydration",
+      "redness"
+    ],
+    "source_url": "https://www.sephora.com/product/skinfix-barrier-lipid-boost-P421722",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-day-7",
+    "name": "Confidence in a Cream",
+    "brand": "IT Cosmetics",
+    "category": "day_cream",
+    "price": 49.0,
+    "rating": 4.5,
+    "review_count": 6800,
+    "ingredients": [
+      "Water",
+      "Peptide",
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Ceramide"
+    ],
+    "pros": [
+      "Anti-aging moisturizer",
+      "Plumps fine lines",
+      "Works as primer",
+      "Visible results"
+    ],
+    "cons": [
+      "Heavy for oily skin",
+      "Strong scent",
+      "Pricey"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "fine_lines",
+      "sagging",
+      "dehydration"
+    ],
+    "source_url": "https://www.sephora.com/product/it-cosmetics-confidence-in-a-cream-P421723",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-night-4",
+    "name": "Magic Cream",
+    "brand": "Charlotte Tilbury",
+    "category": "night_cream",
+    "price": 100.0,
+    "rating": 4.6,
+    "review_count": 3400,
+    "ingredients": [
+      "Water",
+      "Peptide",
+      "Vitamin C",
+      "Hyaluronic Acid",
+      "Rose Oil"
+    ],
+    "pros": [
+      "Luxurious rich texture",
+      "Firms and plumps overnight",
+      "Celebrity favorite",
+      "Instant glow"
+    ],
+    "cons": [
+      "Very expensive",
+      "Contains fragrance",
+      "Too rich for oily skin"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "sagging",
+      "fine_lines",
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/charlotte-tilbury-magic-cream-P421724",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-night-5",
+    "name": "Retinol Correxion Night Cream",
+    "brand": "RoC",
+    "category": "night_cream",
+    "price": 24.99,
+    "rating": 4.3,
+    "review_count": 8900,
+    "ingredients": [
+      "Water",
+      "Retinol",
+      "Glycerin",
+      "Mineral Oil",
+      "Dimethicone"
+    ],
+    "pros": [
+      "Affordable retinol cream",
+      "Reduces wrinkles over time",
+      "Drugstore proven formula",
+      "Non-greasy"
+    ],
+    "cons": [
+      "Mild irritation initially",
+      "Mineral oil base",
+      "Slow results"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "dry"
+    ],
+    "addresses_concerns": [
+      "fine_lines",
+      "aging",
+      "dark_spots"
+    ],
+    "source_url": "https://www.sephora.com/product/roc-retinol-correxion-night-cream-P421725",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-night-6",
+    "name": "Bakuchiol Retinol Alternative Serum",
+    "brand": "Herbivore",
+    "category": "night_cream",
+    "price": 54.0,
+    "rating": 4.2,
+    "review_count": 1600,
+    "ingredients": [
+      "Water",
+      "Bakuchiol",
+      "Squalane",
+      "Blue Tansy",
+      "Glycerin"
+    ],
+    "pros": [
+      "Gentle retinol alternative",
+      "Safe during pregnancy",
+      "Calms while treating",
+      "Natural ingredients"
+    ],
+    "cons": [
+      "Expensive for size",
+      "Blue color stains pillow",
+      "Slow results"
+    ],
+    "suitable_skin_types": [
+      "sensitive",
+      "dry",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "fine_lines",
+      "aging",
+      "redness"
+    ],
+    "source_url": "https://www.sephora.com/product/herbivore-bakuchiol-retinol-alternative-P421726",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-night-7",
+    "name": "T.L.C. Sukari Babyfacial",
+    "brand": "Drunk Elephant",
+    "category": "night_cream",
+    "price": 80.0,
+    "rating": 4.5,
+    "review_count": 2400,
+    "ingredients": [
+      "Water",
+      "Glycolic Acid",
+      "Salicylic Acid",
+      "Tartaric Acid",
+      "Citric Acid"
+    ],
+    "pros": [
+      "Weekly resurfacing treatment",
+      "Dramatic glow",
+      "Reduces pores and lines",
+      "Professional results"
+    ],
+    "cons": [
+      "Strong acids - not daily use",
+      "Expensive",
+      "Can cause redness"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "oily",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "dullness",
+      "pores",
+      "fine_lines"
+    ],
+    "source_url": "https://www.sephora.com/product/drunk-elephant-babyfacial-P433532",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-eye-4",
+    "name": "Potent-C Eye Brightener",
+    "brand": "Peter Thomas Roth",
+    "category": "eye_cream",
+    "price": 65.0,
+    "rating": 4.3,
+    "review_count": 1200,
+    "ingredients": [
+      "Water",
+      "Vitamin C",
+      "Caffeine",
+      "Hyaluronic Acid",
+      "Glycerin"
+    ],
+    "pros": [
+      "Brightens dark circles fast",
+      "Vitamin C for eye area",
+      "Firms under-eye skin",
+      "Visible results in weeks"
+    ],
+    "cons": [
+      "Expensive",
+      "Can sting slightly",
+      "Small jar"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "dry"
+    ],
+    "addresses_concerns": [
+      "dark_spots",
+      "fine_lines",
+      "sagging"
+    ],
+    "source_url": "https://www.sephora.com/product/peter-thomas-roth-potent-c-eye-brightener-P421727",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-eye-5",
+    "name": "Caffeine Solution 5% + EGCG",
+    "brand": "The Ordinary",
+    "category": "eye_cream",
+    "price": 8.5,
+    "rating": 4.1,
+    "review_count": 11200,
+    "ingredients": [
+      "Water",
+      "Caffeine",
+      "EGCG",
+      "Hyaluronic Acid",
+      "Glycerin"
+    ],
+    "pros": [
+      "Reduces puffiness",
+      "Affordable eye treatment",
+      "Lightweight serum texture",
+      "Depuffs in minutes"
+    ],
+    "cons": [
+      "Doesn't help dark circles much",
+      "Can be drying",
+      "Need to use consistently"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "sagging",
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/the-ordinary-caffeine-solution-5-egcg-P427423",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-eye-6",
+    "name": "Banana Bright+ Eye Crème",
+    "brand": "Ole Henriksen",
+    "category": "eye_cream",
+    "price": 42.0,
+    "rating": 4.4,
+    "review_count": 2800,
+    "ingredients": [
+      "Water",
+      "Vitamin C",
+      "Gold",
+      "Collagen",
+      "Caffeine"
+    ],
+    "pros": [
+      "Brightens dark circles",
+      "Golden tint color-corrects",
+      "Firms eye area",
+      "Makeup-friendly"
+    ],
+    "cons": [
+      "Golden tint not for all",
+      "Contains fragrance",
+      "Moderate price"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "dry",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "dark_spots",
+      "dullness",
+      "fine_lines"
+    ],
+    "source_url": "https://www.sephora.com/product/ole-henriksen-banana-bright-eye-creme-P421728",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-eye-7",
+    "name": "Retinol Eye Cream",
+    "brand": "RoC",
+    "category": "eye_cream",
+    "price": 22.99,
+    "rating": 4.2,
+    "review_count": 5600,
+    "ingredients": [
+      "Water",
+      "Retinol",
+      "Glycerin",
+      "Mineral Oil",
+      "Dimethicone"
+    ],
+    "pros": [
+      "Affordable retinol for eyes",
+      "Reduces crow's feet",
+      "Drugstore proven",
+      "Gentle formula"
+    ],
+    "cons": [
+      "Slow results",
+      "Mineral oil base",
+      "Mild irritation possible"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "dry",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "fine_lines",
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/roc-retinol-eye-cream-P421729",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-sun-3",
+    "name": "Play Everyday Lotion SPF 50",
+    "brand": "Supergoop!",
+    "category": "sunscreen",
+    "price": 22.0,
+    "rating": 4.4,
+    "review_count": 3200,
+    "ingredients": [
+      "Water",
+      "Avobenzone",
+      "Octisalate",
+      "Oxybenzone",
+      "Vitamin E"
+    ],
+    "pros": [
+      "High SPF protection",
+      "Lightweight lotion",
+      "No white cast",
+      "Affordable Supergoop option"
+    ],
+    "cons": [
+      "Chemical filters",
+      "Can sting eyes",
+      "Needs reapplication"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "oily"
+    ],
+    "addresses_concerns": [
+      "aging",
+      "dark_spots"
+    ],
+    "source_url": "https://www.sephora.com/product/supergoop-play-everyday-lotion-spf-50-P421730",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-sun-4",
+    "name": "UV Clear Broad-Spectrum SPF 46",
+    "brand": "EltaMD",
+    "category": "sunscreen",
+    "price": 39.0,
+    "rating": 4.7,
+    "review_count": 7800,
+    "ingredients": [
+      "Water",
+      "Zinc Oxide",
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Lactic Acid"
+    ],
+    "pros": [
+      "Dermatologist favorite",
+      "Niacinamide for acne-prone",
+      "No white cast",
+      "Lightweight"
+    ],
+    "cons": [
+      "Pricey",
+      "Pump dispenser issues",
+      "Can pill under makeup"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "sensitive",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "acne",
+      "redness",
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/eltamd-uv-clear-broad-spectrum-spf-46-P421731",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-sun-5",
+    "name": "Anthelios Melt-In Milk Sunscreen SPF 60",
+    "brand": "La Roche-Posay",
+    "category": "sunscreen",
+    "price": 35.99,
+    "rating": 4.6,
+    "review_count": 4500,
+    "ingredients": [
+      "Water",
+      "Avobenzone",
+      "Homosalate",
+      "Octocrylene",
+      "Vitamin E"
+    ],
+    "pros": [
+      "Very high SPF protection",
+      "Melt-in texture",
+      "Water resistant",
+      "French pharmacy quality"
+    ],
+    "cons": [
+      "Chemical sunscreen",
+      "Can feel greasy",
+      "Strong scent"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "aging",
+      "dark_spots"
+    ],
+    "source_url": "https://www.sephora.com/product/la-roche-posay-anthelios-melt-in-milk-P421732",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-sun-6",
+    "name": "Mineral Mattescreen SPF 40",
+    "brand": "Supergoop!",
+    "category": "sunscreen",
+    "price": 38.0,
+    "rating": 4.3,
+    "review_count": 2100,
+    "ingredients": [
+      "Water",
+      "Zinc Oxide",
+      "Titanium Dioxide",
+      "Bamboo Extract",
+      "Wild Ginger"
+    ],
+    "pros": [
+      "Mineral formula mattifies",
+      "Blurs pores",
+      "Tinted for no white cast",
+      "Great primer"
+    ],
+    "cons": [
+      "Tint may not match all",
+      "Drying for dry skin",
+      "Expensive"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "oiliness",
+      "pores",
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/supergoop-mineral-mattescreen-spf-40-P421733",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-mask-4",
+    "name": "Mighty Patch Original",
+    "brand": "Hero Cosmetics",
+    "category": "mask",
+    "price": 12.99,
+    "rating": 4.5,
+    "review_count": 15000,
+    "ingredients": [
+      "Hydrocolloid",
+      "Pimple Patches",
+      "Adhesive",
+      "Tea Tree"
+    ],
+    "pros": [
+      "Shrinks pimples overnight",
+      "Affordable acne treatment",
+      "Easy to use",
+      "Cult favorite"
+    ],
+    "cons": [
+      "Only for individual pimples",
+      "Not for cystic acne",
+      "Visible on skin"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "acne"
+    ],
+    "source_url": "https://www.sephora.com/product/hero-cosmetics-mighty-patch-P421734",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-mask-5",
+    "name": "Luminous Black Charcoal Mask",
+    "brand": "Boscia",
+    "category": "mask",
+    "price": 38.0,
+    "rating": 4.2,
+    "review_count": 1800,
+    "ingredients": [
+      "Water",
+      "Activated Charcoal",
+      "Kaolin Clay",
+      "Willow Bark",
+      "Jojoba"
+    ],
+    "pros": [
+      "Deep pore cleansing",
+      "Peel-off satisfaction",
+      "Removes blackheads",
+      "Fun to use"
+    ],
+    "cons": [
+      "Painful to peel off",
+      "Not for sensitive skin",
+      "Dries skin"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "pores",
+      "oiliness",
+      "acne"
+    ],
+    "source_url": "https://www.sephora.com/product/boscia-luminous-black-charcoal-mask-P421735",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-mask-6",
+    "name": "Mario Badescu Drying Lotion",
+    "brand": "Mario Badescu",
+    "category": "mask",
+    "price": 17.0,
+    "rating": 4.3,
+    "review_count": 9200,
+    "ingredients": [
+      "Sulfur",
+      "Salicylic Acid",
+      "Calamine",
+      "Zinc Oxide",
+      "Glycerin"
+    ],
+    "pros": [
+      "Dries out pimples overnight",
+      "Affordable spot treatment",
+      "Pink lotion is iconic",
+      "Works on whiteheads"
+    ],
+    "cons": [
+      "Dries surrounding skin",
+      "Strong sulfur smell",
+      "Not for all acne types"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "acne",
+      "oiliness"
+    ],
+    "source_url": "https://www.sephora.com/product/mario-badescu-drying-lotion-P421736",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-mask-7",
+    "name": "Violet-C Radiance Mask",
+    "brand": "Tatcha",
+    "category": "mask",
+    "price": 68.0,
+    "rating": 4.5,
+    "review_count": 1400,
+    "ingredients": [
+      "Water",
+      "Vitamin C",
+      "AHA",
+      "Japanese Beauty Berry",
+      "Squalane"
+    ],
+    "pros": [
+      "Instant radiance boost",
+      "Gentle exfoliating mask",
+      "Luxurious texture",
+      "Brightens dark spots"
+    ],
+    "cons": [
+      "Very expensive",
+      "Use only 1-2x weekly",
+      "Light scent"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "dry",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "dullness",
+      "dark_spots",
+      "fine_lines"
+    ],
+    "source_url": "https://www.sephora.com/product/tatcha-violet-c-radiance-mask-P421737",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-mask-8",
+    "name": "Kale + Spinach Green Tea Hyaluronic Acid Mask",
+    "brand": "Youth To The People",
+    "category": "mask",
+    "price": 44.0,
+    "rating": 4.4,
+    "review_count": 2100,
+    "ingredients": [
+      "Water",
+      "Kale",
+      "Spinach",
+      "Green Tea",
+      "Hyaluronic Acid"
+    ],
+    "pros": [
+      "Superfood hydration mask",
+      "Cooling gel texture",
+      "Vegan formula",
+      "Plumps dehydrated skin"
+    ],
+    "cons": [
+      "Expensive for single mask",
+      "Best as wash-off treatment"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal",
+      "sensitive"
+    ],
+    "addresses_concerns": [
+      "dehydration",
+      "dullness"
+    ],
+    "source_url": "https://www.sephora.com/product/youth-to-the-people-superfood-mask-P421738",
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": [],
+    "image_url": null
+  },
+  {
+    "id": "prod-cleanser-9",
+    "name": "Hydrating Facial Cleanser",
+    "brand": "CeraVe",
+    "category": "cleanser",
+    "price": 13.99,
+    "rating": 4.7,
+    "review_count": 18000,
+    "ingredients": [
+      "Water",
+      "Ceramide NP",
+      "Hyaluronic Acid",
+      "Glycerin"
+    ],
+    "pros": [
+      "Non-foaming gentle cleanse",
+      "Restores skin barrier",
+      "Dermatologist developed",
+      "Huge bottle value"
+    ],
+    "cons": [
+      "Doesn't remove waterproof makeup",
+      "Can feel filmy if not rinsed well"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "sensitive",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "dehydration",
+      "redness"
+    ],
+    "source_url": "https://www.sephora.com/product/cerave-hydrating-facial-cleanser-P422640",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-cleanser-10",
+    "name": "Purifying Face Wash",
+    "brand": "Fresh",
+    "category": "cleanser",
+    "price": 38.0,
+    "rating": 4.4,
+    "review_count": 2100,
+    "ingredients": [
+      "Water",
+      "Soy Amino Acids",
+      "Cucumber",
+      "Rose Water"
+    ],
+    "pros": [
+      "Gentle foaming cleanse",
+      "Pleasant light scent",
+      "Removes makeup well",
+      "Luxurious feel"
+    ],
+    "cons": [
+      "Contains fragrance",
+      "Expensive for size"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "oily"
+    ],
+    "addresses_concerns": [
+      "dullness",
+      "oiliness"
+    ],
+    "source_url": "https://www.sephora.com/product/fresh-soy-face-cleanser-P421740",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-cleanser-11",
+    "name": "Squalane Cleanser",
+    "brand": "The Ordinary",
+    "category": "cleanser",
+    "price": 9.9,
+    "rating": 4.3,
+    "review_count": 6700,
+    "ingredients": [
+      "Squalane",
+      "Glycerin",
+      "Coconut Surfactants"
+    ],
+    "pros": [
+      "Melts away makeup",
+      "Affordable balm cleanser",
+      "Non-stripping",
+      "Great first cleanse"
+    ],
+    "cons": [
+      "Needs second cleanse for some",
+      "Can blur vision if in eyes"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal",
+      "sensitive"
+    ],
+    "addresses_concerns": [
+      "dehydration"
+    ],
+    "source_url": "https://www.sephora.com/product/the-ordinary-squalane-cleanser-P421741",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-cleanser-12",
+    "name": "AHA/BHA Exfoliating Cleanser",
+    "brand": "Murad",
+    "category": "cleanser",
+    "price": 42.0,
+    "rating": 4.5,
+    "review_count": 1800,
+    "ingredients": [
+      "Water",
+      "Salicylic Acid",
+      "Glycolic Acid",
+      "Lactic Acid"
+    ],
+    "pros": [
+      "Deep pore exfoliation",
+      "Smooths rough texture",
+      "Reduces breakouts",
+      "Dermatologist brand"
+    ],
+    "cons": [
+      "Too strong for daily sensitive use",
+      "Premium price"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "acne",
+      "pores",
+      "dullness"
+    ],
+    "source_url": "https://www.sephora.com/product/murad-aha-bha-exfoliating-cleanser-P421742",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-cleanser-13",
+    "name": "Ultra Gentle Daily Cleanser",
+    "brand": "Neutrogena",
+    "category": "cleanser",
+    "price": 11.49,
+    "rating": 4.4,
+    "review_count": 9200,
+    "ingredients": [
+      "Water",
+      "Glycerin",
+      "Chamomile",
+      "Polyglycerides"
+    ],
+    "pros": [
+      "Drugstore favorite",
+      "Fragrance-free",
+      "Gentle for reactive skin",
+      "Budget-friendly"
+    ],
+    "cons": [
+      "Basic formula",
+      "May not satisfy luxury seekers"
+    ],
+    "suitable_skin_types": [
+      "sensitive",
+      "dry",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "redness",
+      "dehydration"
+    ],
+    "source_url": "https://www.sephora.com/product/neutrogena-ultra-gentle-cleanser-P421743",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-cleanser-14",
+    "name": "Pore Normalizing Cleanser",
+    "brand": "Paula's Choice",
+    "category": "cleanser",
+    "price": 22.0,
+    "rating": 4.5,
+    "review_count": 4300,
+    "ingredients": [
+      "Water",
+      "Salicylic Acid",
+      "Niacinamide",
+      "Aloe"
+    ],
+    "pros": [
+      "Unclogs pores effectively",
+      "No fragrance or dyes",
+      "Science-backed formula",
+      "Reduces blackheads"
+    ],
+    "cons": [
+      "Can dry if overused",
+      "Plain packaging"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "pores",
+      "acne",
+      "oiliness"
+    ],
+    "source_url": "https://www.sephora.com/product/paulas-choice-pore-normalizing-cleanser-P421744",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-cleanser-15",
+    "name": "Calm + Restore Nourishing Gel Cleanser",
+    "brand": "Aveeno",
+    "category": "cleanser",
+    "price": 12.99,
+    "rating": 4.3,
+    "review_count": 3400,
+    "ingredients": [
+      "Water",
+      "Feverfew",
+      "Glycerin",
+      "Ceramide"
+    ],
+    "pros": [
+      "Soothes sensitive skin",
+      "Drugstore accessible",
+      "Calming oat formula",
+      "Non-irritating"
+    ],
+    "cons": [
+      "Light gel may not remove heavy makeup",
+      "Mild scent"
+    ],
+    "suitable_skin_types": [
+      "sensitive",
+      "dry"
+    ],
+    "addresses_concerns": [
+      "redness",
+      "dehydration"
+    ],
+    "source_url": "https://www.sephora.com/product/aveeno-calm-restore-cleanser-P421745",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-cleanser-16",
+    "name": "Vinoclean Instant Foaming Cleanser",
+    "brand": "Caudalie",
+    "category": "cleanser",
+    "price": 30.0,
+    "rating": 4.4,
+    "review_count": 2600,
+    "ingredients": [
+      "Water",
+      "Grape Water",
+      "Chamomile",
+      "Rose Water"
+    ],
+    "pros": [
+      "Light airy foam",
+      "Refreshing feel",
+      "Gentle daily cleanse",
+      "French pharmacy quality"
+    ],
+    "cons": [
+      "Pump can clog",
+      "Not for heavy makeup"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "oily"
+    ],
+    "addresses_concerns": [
+      "dullness"
+    ],
+    "source_url": "https://www.sephora.com/product/caudalie-vinoclean-foaming-cleanser-P421746",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-cleanser-17",
+    "name": "Low pH Good Morning Gel Cleanser",
+    "brand": "COSRX",
+    "category": "cleanser",
+    "price": 14.0,
+    "rating": 4.5,
+    "review_count": 7800,
+    "ingredients": [
+      "Water",
+      "Tea Tree Oil",
+      "BHA",
+      "Betaine Salicylate"
+    ],
+    "pros": [
+      "K-beauty morning cleanse",
+      "Maintains skin pH",
+      "Controls morning oil",
+      "Affordable cult product"
+    ],
+    "cons": [
+      "Tea tree scent not for all",
+      "Small tube"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "acne",
+      "oiliness"
+    ],
+    "source_url": "https://www.sephora.com/product/cosrx-low-ph-good-morning-cleanser-P421747",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-cleanser-18",
+    "name": "The Rice Polish Classic",
+    "brand": "Tatcha",
+    "category": "cleanser",
+    "price": 68.0,
+    "rating": 4.6,
+    "review_count": 1500,
+    "ingredients": [
+      "Rice Bran",
+      "Papaya Enzyme",
+      "Green Tea",
+      "Silk"
+    ],
+    "pros": [
+      "Gentle enzyme exfoliation",
+      "Luxurious powder-to-paste",
+      "Instant soft skin",
+      "Refines texture"
+    ],
+    "cons": [
+      "Very expensive",
+      "Not for active breakouts"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "dry",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "dullness",
+      "fine_lines"
+    ],
+    "source_url": "https://www.sephora.com/product/tatcha-rice-polish-classic-P421748",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-toner-7",
+    "name": "BHA Blackhead Power Liquid",
+    "brand": "COSRX",
+    "category": "toner",
+    "price": 24.0,
+    "rating": 4.4,
+    "review_count": 6200,
+    "ingredients": [
+      "Water",
+      "Betaine Salicylate",
+      "Niacinamide",
+      "Willow Bark"
+    ],
+    "pros": [
+      "Dissolves blackheads",
+      "Gentler than Western BHA",
+      "K-beauty staple",
+      "Refines pores"
+    ],
+    "cons": [
+      "Not for aspirin allergy",
+      "Slow visible results"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "pores",
+      "acne",
+      "oiliness"
+    ],
+    "source_url": "https://www.sephora.com/product/cosrx-bha-blackhead-power-liquid-P421749",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-toner-8",
+    "name": "Calendula Herbal Extract Toner",
+    "brand": "Kiehl's",
+    "category": "toner",
+    "price": 28.0,
+    "rating": 4.4,
+    "review_count": 3100,
+    "ingredients": [
+      "Water",
+      "Calendula",
+      "Allantoin",
+      "Glycerin"
+    ],
+    "pros": [
+      "Soothes irritated skin",
+      "Beautiful calendula petals",
+      "Alcohol-free",
+      "Gentle daily toner"
+    ],
+    "cons": [
+      "Petal bits can be messy",
+      "Light hydration only"
+    ],
+    "suitable_skin_types": [
+      "sensitive",
+      "normal",
+      "dry"
+    ],
+    "addresses_concerns": [
+      "redness",
+      "dehydration"
+    ],
+    "source_url": "https://www.sephora.com/product/kiehls-calendula-herbal-extract-toner-P421750",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-toner-9",
+    "name": "Aloe BHA Skin Toner",
+    "brand": "Benton",
+    "category": "toner",
+    "price": 16.0,
+    "rating": 4.3,
+    "review_count": 4100,
+    "ingredients": [
+      "Water",
+      "Aloe Vera",
+      "BHA",
+      "Snail Secretion"
+    ],
+    "pros": [
+      "Hydrating exfoliating toner",
+      "K-beauty affordable",
+      "Soothes while treating",
+      "Snail mucin benefits"
+    ],
+    "cons": [
+      "Snail ingredient not vegan",
+      "Slight sticky finish"
+    ],
+    "suitable_skin_types": [
+      "combination",
+      "oily",
+      "sensitive"
+    ],
+    "addresses_concerns": [
+      "acne",
+      "dehydration"
+    ],
+    "source_url": "https://www.sephora.com/product/benton-aloe-bha-skin-toner-P421751",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-toner-10",
+    "name": "Rose Deep Hydration Facial Toner",
+    "brand": "Fresh",
+    "category": "toner",
+    "price": 45.0,
+    "rating": 4.5,
+    "review_count": 2200,
+    "ingredients": [
+      "Water",
+      "Rose Fruit Extract",
+      "Hyaluronic Acid",
+      "Rosewater"
+    ],
+    "pros": [
+      "Luxurious rose scent",
+      "Deep hydration",
+      "Preps skin beautifully",
+      "Real rose petals"
+    ],
+    "cons": [
+      "Fragranced",
+      "Expensive"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "dehydration",
+      "dullness"
+    ],
+    "source_url": "https://www.sephora.com/product/fresh-rose-deep-hydration-toner-P421752",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-toner-11",
+    "name": "Mandelic Acid 5% Prep Water",
+    "brand": "By Wishtrend",
+    "category": "toner",
+    "price": 22.0,
+    "rating": 4.2,
+    "review_count": 2800,
+    "ingredients": [
+      "Water",
+      "Mandelic Acid",
+      "Centella Asiatica",
+      "Panthenol"
+    ],
+    "pros": [
+      "Gentle AHA for beginners",
+      "Brightens dark spots",
+      "Good for sensitive skin",
+      "K-beauty favorite"
+    ],
+    "cons": [
+      "Slow results",
+      "Can tingle initially"
+    ],
+    "suitable_skin_types": [
+      "sensitive",
+      "combination",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "dark_spots",
+      "dullness",
+      "fine_lines"
+    ],
+    "source_url": "https://www.sephora.com/product/by-wishtrend-mandelic-acid-prep-water-P421753",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-toner-12",
+    "name": "Cactus Water Cleansing Lactic Acid Toner",
+    "brand": "Huda Beauty",
+    "category": "toner",
+    "price": 28.0,
+    "rating": 4.3,
+    "review_count": 1900,
+    "ingredients": [
+      "Water",
+      "Cactus Water",
+      "Lactic Acid",
+      "Hyaluronic Acid"
+    ],
+    "pros": [
+      "Exfoliates and hydrates",
+      "Unique cactus formula",
+      "Glowy finish",
+      "Pleasant texture"
+    ],
+    "cons": [
+      "Scented",
+      "Newer brand formula"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "dry"
+    ],
+    "addresses_concerns": [
+      "dullness",
+      "dehydration"
+    ],
+    "source_url": "https://www.sephora.com/product/huda-beauty-cactus-water-toner-P421754",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-toner-13",
+    "name": "Watermelon Glow BHA+Pore-Smooth Toner",
+    "brand": "Glow Recipe",
+    "category": "toner",
+    "price": 34.0,
+    "rating": 4.4,
+    "review_count": 3500,
+    "ingredients": [
+      "Water",
+      "Watermelon",
+      "BHA",
+      "Hyaluronic Acid"
+    ],
+    "pros": [
+      "Pore minimizing",
+      "Hydrating exfoliant",
+      "Pleasant scent",
+      "Instagram favorite"
+    ],
+    "cons": [
+      "Fragrance",
+      "Can pill with serums"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "pores",
+      "oiliness",
+      "dullness"
+    ],
+    "source_url": "https://www.sephora.com/product/glow-recipe-watermelon-bha-toner-P421755",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-toner-14",
+    "name": "Skin Perfecting 2% BHA Liquid",
+    "brand": "Paula's Choice",
+    "category": "toner",
+    "price": 35.0,
+    "rating": 4.6,
+    "review_count": 12000,
+    "ingredients": [
+      "Water",
+      "Salicylic Acid",
+      "Green Tea",
+      "Methylpropanediol"
+    ],
+    "pros": [
+      "Gold standard BHA toner",
+      "Clears pores fast",
+      "Fragrance-free",
+      "Cult classic"
+    ],
+    "cons": [
+      "Can dry skin initially",
+      "Plain look"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "acne",
+      "pores",
+      "oiliness"
+    ],
+    "source_url": "https://www.sephora.com/product/paulas-choice-skin-perfecting-bha-P421756",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-toner-15",
+    "name": "The Essence with TFC8",
+    "brand": "Augustinus Bader",
+    "category": "toner",
+    "price": 99.0,
+    "rating": 4.5,
+    "review_count": 800,
+    "ingredients": [
+      "Water",
+      "TFC8 Complex",
+      "Hyaluronic Acid",
+      "Glycerin"
+    ],
+    "pros": [
+      "Luxury anti-aging essence",
+      "Firms and hydrates",
+      "Celebrity favorite",
+      "Transformative texture"
+    ],
+    "cons": [
+      "Extremely expensive",
+      "Subtle scent"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "aging",
+      "sagging",
+      "fine_lines"
+    ],
+    "source_url": "https://www.sephora.com/product/augustinus-bader-the-essence-P421757",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-toner-16",
+    "name": "Mineral Oil-Free Moisturizing Toner",
+    "brand": "Hada Labo",
+    "category": "toner",
+    "price": 14.99,
+    "rating": 4.6,
+    "review_count": 8900,
+    "ingredients": [
+      "Water",
+      "Hyaluronic Acid",
+      "Glycerin",
+      "Citric Acid"
+    ],
+    "pros": [
+      "Multiple HA weights",
+      "Japanese drugstore hero",
+      "Plumps skin instantly",
+      "Alcohol-free"
+    ],
+    "cons": [
+      "Can feel sticky",
+      "Basic packaging"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "sensitive",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "dehydration",
+      "fine_lines"
+    ],
+    "source_url": "https://www.sephora.com/product/hada-labo-premium-toner-P421758",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-serum-11",
+    "name": "Granactive Retinoid 2% Emulsion",
+    "brand": "The Ordinary",
+    "category": "serum",
+    "price": 10.9,
+    "rating": 4.3,
+    "review_count": 9800,
+    "ingredients": [
+      "Water",
+      "Granactive Retinoid",
+      "Hyaluronic Acid"
+    ],
+    "pros": [
+      "Gentler retinoid option",
+      "Affordable anti-aging",
+      "Less irritation than retinol",
+      "Good beginner retinoid"
+    ],
+    "cons": [
+      "Slow results vs prescription",
+      "Emulsion texture"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "dry"
+    ],
+    "addresses_concerns": [
+      "fine_lines",
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/the-ordinary-granactive-retinoid-2-P421759",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-serum-12",
+    "name": "10% Niacinamide Booster",
+    "brand": "Paula's Choice",
+    "category": "serum",
+    "price": 46.0,
+    "rating": 4.5,
+    "review_count": 3200,
+    "ingredients": [
+      "Water",
+      "Niacinamide",
+      "Vitamin C",
+      "Hyaluronic Acid"
+    ],
+    "pros": [
+      "High concentration niacinamide",
+      "Minimizes pores",
+      "Evens skin tone",
+      "Lightweight booster"
+    ],
+    "cons": [
+      "Can pill",
+      "Premium price"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "pores",
+      "dark_spots",
+      "oiliness"
+    ],
+    "source_url": "https://www.sephora.com/product/paulas-choice-10-niacinamide-booster-P421760",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-serum-13",
+    "name": "Phloretin CF with Ferulic Acid",
+    "brand": "SkinCeuticals",
+    "category": "serum",
+    "price": 182.0,
+    "rating": 4.6,
+    "review_count": 2100,
+    "ingredients": [
+      "Water",
+      "Phloretin",
+      "Vitamin C",
+      "Ferulic Acid"
+    ],
+    "pros": [
+      "Oily skin vitamin C",
+      "Powerful antioxidant",
+      "Fades dark spots",
+      "Dermatologist gold standard"
+    ],
+    "cons": [
+      "Very expensive",
+      "Strong smell"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "dark_spots",
+      "aging",
+      "dullness"
+    ],
+    "source_url": "https://www.sephora.com/product/skinceuticals-phloretin-cf-P421761",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-serum-14",
+    "name": "Snail 96 Mucin Power Essence",
+    "brand": "COSRX",
+    "category": "serum",
+    "price": 25.0,
+    "rating": 4.5,
+    "review_count": 15000,
+    "ingredients": [
+      "Snail Secretion Filtrate",
+      "Sodium Hyaluronate",
+      "Panthenol"
+    ],
+    "pros": [
+      "Intense hydration repair",
+      "K-beauty cult product",
+      "Heals damaged skin",
+      "Plumps fine lines"
+    ],
+    "cons": [
+      "Snail not vegan",
+      "Slightly slimy texture"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "sensitive",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "dehydration",
+      "fine_lines",
+      "redness"
+    ],
+    "source_url": "https://www.sephora.com/product/cosrx-snail-96-mucin-essence-P421762",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-serum-15",
+    "name": "Resurfacing Retinol Serum",
+    "brand": "CeraVe",
+    "category": "serum",
+    "price": 19.99,
+    "rating": 4.4,
+    "review_count": 5600,
+    "ingredients": [
+      "Water",
+      "Encapsulated Retinol",
+      "Ceramide",
+      "Niacinamide"
+    ],
+    "pros": [
+      "Drugstore retinol with ceramides",
+      "Gentle slow-release",
+      "Strengthens barrier",
+      "Affordable anti-aging"
+    ],
+    "cons": [
+      "Mild results vs stronger retinols",
+      "Lotion texture"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "dry"
+    ],
+    "addresses_concerns": [
+      "fine_lines",
+      "aging",
+      "pores"
+    ],
+    "source_url": "https://www.sephora.com/product/cerave-resurfacing-retinol-serum-P421763",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-serum-16",
+    "name": "Vinoperfect Radiance Serum",
+    "brand": "Caudalie",
+    "category": "serum",
+    "price": 79.0,
+    "rating": 4.4,
+    "review_count": 2800,
+    "ingredients": [
+      "Water",
+      "Viniferine",
+      "Vitamin C",
+      "Olive Squalane"
+    ],
+    "pros": [
+      "Natural dark spot corrector",
+      "Brightens complexion",
+      "Lightweight",
+      "French pharmacy favorite"
+    ],
+    "cons": [
+      "Expensive",
+      "Results take weeks"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "dry"
+    ],
+    "addresses_concerns": [
+      "dark_spots",
+      "dullness"
+    ],
+    "source_url": "https://www.sephora.com/product/caudalie-vinoperfect-serum-P421764",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-serum-17",
+    "name": "Powerful-Strength Vitamin C Serum",
+    "brand": "Kiehl's",
+    "category": "serum",
+    "price": 75.0,
+    "rating": 4.5,
+    "review_count": 3400,
+    "ingredients": [
+      "Water",
+      "Vitamin C",
+      "Hyaluronic Acid",
+      "Vitamin E"
+    ],
+    "pros": [
+      "12.5% vitamin C",
+      "Visible brightening",
+      "Smooths texture",
+      "Trusted brand"
+    ],
+    "cons": [
+      "Can oxidize",
+      "Silicone feel"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "dry"
+    ],
+    "addresses_concerns": [
+      "dark_spots",
+      "dullness",
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/kiehls-vitamin-c-serum-P421765",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-serum-18",
+    "name": "Buffet + Copper Peptides 1%",
+    "brand": "The Ordinary",
+    "category": "serum",
+    "price": 19.9,
+    "rating": 4.2,
+    "review_count": 5400,
+    "ingredients": [
+      "Water",
+      "Copper Peptides",
+      "Matrixyl",
+      "Argirelox"
+    ],
+    "pros": [
+      "Multi-peptide anti-aging",
+      "Affordable firming serum",
+      "Supports collagen",
+      "Good for sagging"
+    ],
+    "cons": [
+      "Blue color stains",
+      "Conflicts with vitamin C"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "dry",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "sagging",
+      "fine_lines",
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/the-ordinary-buffet-copper-peptides-P421766",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-serum-19",
+    "name": "Dark Spot Correcting Glow Serum",
+    "brand": "Glow Recipe",
+    "category": "serum",
+    "price": 49.0,
+    "rating": 4.3,
+    "review_count": 2100,
+    "ingredients": [
+      "Water",
+      "Niacinamide",
+      "Vitamin C",
+      "Pineapple"
+    ],
+    "pros": [
+      "Fades dark spots gently",
+      "K-beauty glow",
+      "Pleasant scent",
+      "Lightweight"
+    ],
+    "cons": [
+      "Scented",
+      "Moderate results"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "oily"
+    ],
+    "addresses_concerns": [
+      "dark_spots",
+      "dullness"
+    ],
+    "source_url": "https://www.sephora.com/product/glow-recipe-dark-spot-serum-P421767",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-serum-20",
+    "name": "Toleriane Ultra Dermallergo Serum",
+    "brand": "La Roche-Posay",
+    "category": "serum",
+    "price": 32.99,
+    "rating": 4.5,
+    "review_count": 1900,
+    "ingredients": [
+      "Water",
+      "Neurosensine",
+      "Niacinamide",
+      "Ceramide"
+    ],
+    "pros": [
+      "Calms hypersensitive skin",
+      "Dermatologist tested",
+      "Reduces redness",
+      "Minimal ingredients"
+    ],
+    "cons": [
+      "Light hydration only",
+      "Small bottle"
+    ],
+    "suitable_skin_types": [
+      "sensitive",
+      "dry"
+    ],
+    "addresses_concerns": [
+      "redness",
+      "dehydration"
+    ],
+    "source_url": "https://www.sephora.com/product/la-roche-posay-toleriane-ultra-serum-P421768",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-serum-21",
+    "name": "Advanced Night Repair",
+    "brand": "Estée Lauder",
+    "category": "serum",
+    "price": 82.0,
+    "rating": 4.6,
+    "review_count": 8900,
+    "ingredients": [
+      "Water",
+      "Bifida Ferment",
+      "Tripeptide",
+      "Hyaluronic Acid"
+    ],
+    "pros": [
+      "Iconic anti-aging serum",
+      "Repairs overnight",
+      "Firms and hydrates",
+      "Proven results"
+    ],
+    "cons": [
+      "Expensive",
+      "Silicone base"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "aging",
+      "fine_lines",
+      "sagging"
+    ],
+    "source_url": "https://www.sephora.com/product/estee-lauder-advanced-night-repair-P421769",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-serum-22",
+    "name": "Super Bounce Hyaluronic Acid Serum",
+    "brand": "Glossier",
+    "category": "serum",
+    "price": 28.0,
+    "rating": 4.2,
+    "review_count": 3200,
+    "ingredients": [
+      "Water",
+      "Hyaluronic Acid",
+      "Pro-Vitamin B5",
+      "Glycerin"
+    ],
+    "pros": [
+      "Plumping hydration",
+      "Millennial favorite",
+      "Lightweight gel",
+      "Absorbs fast"
+    ],
+    "cons": [
+      "Basic formula",
+      "Not for oily climates"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal",
+      "sensitive"
+    ],
+    "addresses_concerns": [
+      "dehydration",
+      "fine_lines"
+    ],
+    "source_url": "https://www.sephora.com/product/glossier-super-bounce-serum-P421770",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-serum-23",
+    "name": "Lash & Brow Enhancing Serum",
+    "brand": "Grande Cosmetics",
+    "category": "serum",
+    "price": 68.0,
+    "rating": 4.3,
+    "review_count": 4500,
+    "ingredients": [
+      "Water",
+      "Peptides",
+      "Biotin",
+      "Hyaluronic Acid"
+    ],
+    "pros": [
+      "Enhances lashes and brows",
+      "Visible growth in weeks",
+      "Ophthalmologist tested",
+      "Popular beauty item"
+    ],
+    "cons": [
+      "Not for face skincare",
+      "Requires daily use"
+    ],
+    "suitable_skin_types": [
+      "normal"
+    ],
+    "addresses_concerns": [
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/grande-lash-enhancing-serum-P421771",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-serum-24",
+    "name": "A-Passioni Retinol Cream",
+    "brand": "Drunk Elephant",
+    "category": "serum",
+    "price": 74.0,
+    "rating": 4.4,
+    "review_count": 2600,
+    "ingredients": [
+      "Water",
+      "Retinol",
+      "Passionfruit",
+      "Vitamin F"
+    ],
+    "pros": [
+      "Potent retinol cream",
+      "Fights aging and texture",
+      "Clean formula",
+      "Visible results"
+    ],
+    "cons": [
+      "Strong for beginners",
+      "Expensive"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "dry"
+    ],
+    "addresses_concerns": [
+      "fine_lines",
+      "aging",
+      "dullness"
+    ],
+    "source_url": "https://www.sephora.com/product/drunk-elephant-a-passioni-retinol-P421772",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-serum-25",
+    "name": "Green Tea Seed Hyaluronic Serum",
+    "brand": "Innisfree",
+    "category": "serum",
+    "price": 28.0,
+    "rating": 4.4,
+    "review_count": 4100,
+    "ingredients": [
+      "Water",
+      "Green Tea",
+      "Hyaluronic Acid",
+      "Panthenol"
+    ],
+    "pros": [
+      "Antioxidant hydration",
+      "K-beauty affordable",
+      "Fresh green tea scent",
+      "Lightweight daily serum"
+    ],
+    "cons": [
+      "Scented",
+      "Moderate anti-aging"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "oily"
+    ],
+    "addresses_concerns": [
+      "dehydration",
+      "dullness"
+    ],
+    "source_url": "https://www.sephora.com/product/innisfree-green-tea-seed-serum-P421773",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-day-8",
+    "name": "The True Cream Aqua Bomb",
+    "brand": "Belif",
+    "category": "day_cream",
+    "price": 40.0,
+    "rating": 4.5,
+    "review_count": 4800,
+    "ingredients": [
+      "Water",
+      "Lady's Mantle",
+      "Hyaluronic Acid",
+      "Ceramide"
+    ],
+    "pros": [
+      "Exploding water cream texture",
+      "Instant cooling hydration",
+      "K-beauty favorite",
+      "Works under makeup"
+    ],
+    "cons": [
+      "Light for very dry skin",
+      "Contains fragrance"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "dehydration",
+      "oiliness"
+    ],
+    "source_url": "https://www.sephora.com/product/belif-aqua-bomb-P421774",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-day-9",
+    "name": "Dramatically Different Moisturizing Lotion+",
+    "brand": "Clinique",
+    "category": "day_cream",
+    "price": 32.0,
+    "rating": 4.4,
+    "review_count": 6100,
+    "ingredients": [
+      "Water",
+      "Hyaluronic Acid",
+      "Glycerin",
+      "Urea"
+    ],
+    "pros": [
+      "Classic moisturizer",
+      "Strengthens barrier",
+      "Works for most skin types",
+      "Yellow lotion iconic"
+    ],
+    "cons": [
+      "Contains fragrance",
+      "Basic formula"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "dehydration"
+    ],
+    "source_url": "https://www.sephora.com/product/clinique-dramatically-different-lotion-P421775",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-day-10",
+    "name": "Toleriane Double Repair Face Moisturizer",
+    "brand": "La Roche-Posay",
+    "category": "day_cream",
+    "price": 22.99,
+    "rating": 4.6,
+    "review_count": 5200,
+    "ingredients": [
+      "Water",
+      "Ceramide",
+      "Niacinamide",
+      "Prebiotic"
+    ],
+    "pros": [
+      "Repairs skin barrier",
+      "Dermatologist recommended",
+      "Lightweight daily cream",
+      "Fragrance-free"
+    ],
+    "cons": [
+      "Not rich enough for winter",
+      "Pump packaging"
+    ],
+    "suitable_skin_types": [
+      "sensitive",
+      "dry",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "redness",
+      "dehydration"
+    ],
+    "source_url": "https://www.sephora.com/product/la-roche-posay-toleriane-double-repair-P421776",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-day-11",
+    "name": "The Dewy Skin Cream",
+    "brand": "Tatcha",
+    "category": "day_cream",
+    "price": 72.0,
+    "rating": 4.5,
+    "review_count": 2900,
+    "ingredients": [
+      "Water",
+      "Japanese Purple Rice",
+      "Hyaluronic Acid",
+      "Hadasei-3"
+    ],
+    "pros": [
+      "Glass skin glow",
+      "Luxurious texture",
+      "Deep hydration",
+      "Beautiful packaging"
+    ],
+    "cons": [
+      "Expensive",
+      "Too rich for oily skin"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "dehydration",
+      "dullness",
+      "fine_lines"
+    ],
+    "source_url": "https://www.sephora.com/product/tatcha-dewy-skin-cream-P421777",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-day-12",
+    "name": "Oil-Free Moisture Gel-Cream",
+    "brand": "Neutrogena",
+    "category": "day_cream",
+    "price": 16.99,
+    "rating": 4.3,
+    "review_count": 7800,
+    "ingredients": [
+      "Water",
+      "Hyaluronic Acid",
+      "Glycerin",
+      "Dimethicone"
+    ],
+    "pros": [
+      "Lightweight oil-free",
+      "Drugstore staple",
+      "Non-comedogenic",
+      "Great for humid climates"
+    ],
+    "cons": [
+      "Basic ingredients",
+      "Not anti-aging"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "oiliness",
+      "dehydration"
+    ],
+    "source_url": "https://www.sephora.com/product/neutrogena-oil-free-moisture-P421778",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-day-13",
+    "name": "Barrier Restore Cream",
+    "brand": "Skinfix",
+    "category": "day_cream",
+    "price": 38.0,
+    "rating": 4.6,
+    "review_count": 1600,
+    "ingredients": [
+      "Water",
+      "Ceramide",
+      "Cholesterol",
+      "Fatty Acids"
+    ],
+    "pros": [
+      "Repairs compromised barrier",
+      "Clean clinical formula",
+      "Rich but breathable",
+      "Eczema-friendly"
+    ],
+    "cons": [
+      "Thick for oily skin",
+      "Premium price"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "sensitive"
+    ],
+    "addresses_concerns": [
+      "redness",
+      "dehydration"
+    ],
+    "source_url": "https://www.sephora.com/product/skinfix-barrier-restore-cream-P421779",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-day-14",
+    "name": "Water Bank Blue Hyaluronic Cream",
+    "brand": "Laneige",
+    "category": "day_cream",
+    "price": 38.0,
+    "rating": 4.5,
+    "review_count": 3400,
+    "ingredients": [
+      "Water",
+      "Hyaluronic Acid",
+      "Mineral Water",
+      "Squalane"
+    ],
+    "pros": [
+      "K-beauty hydration",
+      "Blue HA technology",
+      "Plumps skin",
+      "Fresh gel-cream"
+    ],
+    "cons": [
+      "Scented",
+      "Moderate for very dry"
+    ],
+    "suitable_skin_types": [
+      "combination",
+      "normal",
+      "oily"
+    ],
+    "addresses_concerns": [
+      "dehydration"
+    ],
+    "source_url": "https://www.sephora.com/product/laneige-water-bank-cream-P421780",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-day-15",
+    "name": "Daily Reviving Concentrate",
+    "brand": "Kiehl's",
+    "category": "day_cream",
+    "price": 54.0,
+    "rating": 4.4,
+    "review_count": 2100,
+    "ingredients": [
+      "Water",
+      "Sunflower Oil",
+      "Ginger Root",
+      "Tamanu Oil"
+    ],
+    "pros": [
+      "Energizes tired skin",
+      "Natural glow",
+      "Essential oil blend",
+      "Morning ritual"
+    ],
+    "cons": [
+      "Oily for acne-prone",
+      "Essential oils"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "dullness",
+      "dehydration"
+    ],
+    "source_url": "https://www.sephora.com/product/kiehls-daily-reviving-concentrate-P421781",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-day-16",
+    "name": "Pink Cloud Soft Moisturizer",
+    "brand": "Herbivore",
+    "category": "day_cream",
+    "price": 44.0,
+    "rating": 4.2,
+    "review_count": 1800,
+    "ingredients": [
+      "Water",
+      "Rose Water",
+      "White Tea",
+      "Hyaluronic Acid"
+    ],
+    "pros": [
+      "Clean natural formula",
+      "Lightweight gel cream",
+      "Vegan and cruelty-free",
+      "Subtle rose scent"
+    ],
+    "cons": [
+      "Not enough for dry winter",
+      "Natural scent"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "oily"
+    ],
+    "addresses_concerns": [
+      "dehydration",
+      "dullness"
+    ],
+    "source_url": "https://www.sephora.com/product/herbivore-pink-cloud-moisturizer-P421782",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-day-17",
+    "name": "Mineral SPF 30 Tinted Face Moisturizer",
+    "brand": "Ilia",
+    "category": "day_cream",
+    "price": 48.0,
+    "rating": 4.3,
+    "review_count": 2200,
+    "ingredients": [
+      "Water",
+      "Zinc Oxide",
+      "Squalane",
+      "Niacinamide"
+    ],
+    "pros": [
+      "Tinted SPF moisturizer",
+      "Clean beauty",
+      "Light coverage",
+      "Hydrating mineral SPF"
+    ],
+    "cons": [
+      "Limited shade range",
+      "Can oxidize"
+    ],
+    "suitable_skin_types": [
+      "sensitive",
+      "dry",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "aging",
+      "redness"
+    ],
+    "source_url": "https://www.sephora.com/product/ilia-super-serum-skin-tint-P421783",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-night-8",
+    "name": "Midnight Recovery Concentrate",
+    "brand": "Kiehl's",
+    "category": "night_cream",
+    "price": 52.0,
+    "rating": 4.6,
+    "review_count": 3800,
+    "ingredients": [
+      "Squalane",
+      "Lavender Oil",
+      "Evening Primrose",
+      "Rose Hip"
+    ],
+    "pros": [
+      "Overnight skin repair",
+      "Wakes up glowing",
+      "Luxurious oil serum",
+      "Aromatherapy benefit"
+    ],
+    "cons": [
+      "Essential oils not for sensitive",
+      "Oily texture"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "dehydration",
+      "dullness",
+      "fine_lines"
+    ],
+    "source_url": "https://www.sephora.com/product/kiehls-midnight-recovery-concentrate-P421784",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-night-9",
+    "name": "Regenerist Micro-Sculpting Cream",
+    "brand": "Olay",
+    "category": "night_cream",
+    "price": 28.99,
+    "rating": 4.4,
+    "review_count": 9200,
+    "ingredients": [
+      "Water",
+      "Peptide",
+      "Niacinamide",
+      "Hyaluronic Acid"
+    ],
+    "pros": [
+      "Drugstore anti-aging",
+      "Firms sagging skin",
+      "Affordable peptide cream",
+      "Visible lift"
+    ],
+    "cons": [
+      "Fragrance",
+      "Silicone feel"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "sagging",
+      "fine_lines",
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/olay-regenerist-micro-sculpting-cream-P421785",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-night-10",
+    "name": "Supercharged Anti-Aging Night Cream",
+    "brand": "Youth To The People",
+    "category": "night_cream",
+    "price": 58.0,
+    "rating": 4.4,
+    "review_count": 1400,
+    "ingredients": [
+      "Water",
+      "Retinol",
+      "Peptide",
+      "Kale Extract"
+    ],
+    "pros": [
+      "Clean retinol night cream",
+      "Antioxidant-rich",
+      "Vegan formula",
+      "Smooths overnight"
+    ],
+    "cons": [
+      "Strong retinol",
+      "Expensive"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "dry"
+    ],
+    "addresses_concerns": [
+      "fine_lines",
+      "aging",
+      "dullness"
+    ],
+    "source_url": "https://www.sephora.com/product/youth-to-the-people-night-cream-P421786",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-night-11",
+    "name": "Supreme Night Cream",
+    "brand": "La Mer",
+    "category": "night_cream",
+    "price": 380.0,
+    "rating": 4.5,
+    "review_count": 600,
+    "ingredients": [
+      "Water",
+      "Miracle Broth",
+      "Lime Tea",
+      "Marine Algae"
+    ],
+    "pros": [
+      "Ultra-luxury night repair",
+      "Transformative texture",
+      "Celebrity status cream",
+      "Intense nourishment"
+    ],
+    "cons": [
+      "Extremely expensive",
+      "Heavy fragrance"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "aging",
+      "sagging",
+      "fine_lines"
+    ],
+    "source_url": "https://www.sephora.com/product/la-mer-the-moisturizing-soft-cream-P421787",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-night-12",
+    "name": "Skin Renewing Night Cream",
+    "brand": "CeraVe",
+    "category": "night_cream",
+    "price": 18.99,
+    "rating": 4.5,
+    "review_count": 6400,
+    "ingredients": [
+      "Water",
+      "Peptide",
+      "Ceramide",
+      "Hyaluronic Acid"
+    ],
+    "pros": [
+      "Affordable peptide cream",
+      "Restores barrier overnight",
+      "Non-irritating",
+      "Drugstore hero"
+    ],
+    "cons": [
+      "Not rich enough for very dry",
+      "Basic feel"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "sensitive"
+    ],
+    "addresses_concerns": [
+      "fine_lines",
+      "dehydration"
+    ],
+    "source_url": "https://www.sephora.com/product/cerave-skin-renewing-night-cream-P421788",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-night-13",
+    "name": "Goodnight Glow Retin-Alike Sleep Cream",
+    "brand": "Ole Henriksen",
+    "category": "night_cream",
+    "price": 52.0,
+    "rating": 4.3,
+    "review_count": 1700,
+    "ingredients": [
+      "Water",
+      "Bakuchiol",
+      "AHAs",
+      "Edelweiss"
+    ],
+    "pros": [
+      "Retinol alternative",
+      "Wake up glowing",
+      "Gentle overnight treatment",
+      "Pleasant citrus scent"
+    ],
+    "cons": [
+      "Scented",
+      "Moderate firming"
+    ],
+    "suitable_skin_types": [
+      "sensitive",
+      "normal",
+      "dry"
+    ],
+    "addresses_concerns": [
+      "fine_lines",
+      "dullness",
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/ole-henriksen-goodnight-glow-P421789",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-night-14",
+    "name": "Total Replenishing Night Cream",
+    "brand": "Shiseido",
+    "category": "night_cream",
+    "price": 68.0,
+    "rating": 4.5,
+    "review_count": 1200,
+    "ingredients": [
+      "Water",
+      "Retinol",
+      "Hyaluronic Acid",
+      "Peptide"
+    ],
+    "pros": [
+      "Japanese luxury night cream",
+      "Firms while sleeping",
+      "Silky texture",
+      "Visible morning glow"
+    ],
+    "cons": [
+      "Expensive",
+      "Contains fragrance"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "sagging",
+      "fine_lines",
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/shiseido-benefiance-night-cream-P421790",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-night-15",
+    "name": "Sleeping Mask Night Cream",
+    "brand": "Laneige",
+    "category": "night_cream",
+    "price": 34.0,
+    "rating": 4.5,
+    "review_count": 5600,
+    "ingredients": [
+      "Water",
+      "Hyaluronic Acid",
+      "Evening Primrose",
+      "Apricot"
+    ],
+    "pros": [
+      "K-beauty sleeping mask",
+      "Intense overnight hydration",
+      "Wake up plump skin",
+      "Affordable luxury"
+    ],
+    "cons": [
+      "Too rich for oily",
+      "Scented"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "dehydration",
+      "dullness"
+    ],
+    "source_url": "https://www.sephora.com/product/laneige-water-sleeping-mask-P421791",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-night-16",
+    "name": "Retinol Reform",
+    "brand": "Shani Darden",
+    "category": "night_cream",
+    "price": 88.0,
+    "rating": 4.5,
+    "review_count": 2100,
+    "ingredients": [
+      "Water",
+      "Retinol",
+      "Lactic Acid",
+      "Niacinamide"
+    ],
+    "pros": [
+      "Celebrity esthetician formula",
+      "Gentle effective retinol",
+      "Smooths and brightens",
+      "Visible in weeks"
+    ],
+    "cons": [
+      "Expensive",
+      "Initial adjustment period"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "dry"
+    ],
+    "addresses_concerns": [
+      "fine_lines",
+      "dark_spots",
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/shani-darden-retinol-reform-P421792",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-night-17",
+    "name": "Ultra Repair Firming Collagen Cream",
+    "brand": "First Aid Beauty",
+    "category": "night_cream",
+    "price": 42.0,
+    "rating": 4.4,
+    "review_count": 1500,
+    "ingredients": [
+      "Water",
+      "Collagen",
+      "Peptide",
+      "Ceramide"
+    ],
+    "pros": [
+      "Firms sagging skin",
+      "Rich overnight cream",
+      "Colloidal oatmeal soothes",
+      "Clean formula"
+    ],
+    "cons": [
+      "Heavy for oily skin",
+      "Moderate price"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal",
+      "sensitive"
+    ],
+    "addresses_concerns": [
+      "sagging",
+      "fine_lines",
+      "dehydration"
+    ],
+    "source_url": "https://www.sephora.com/product/first-aid-beauty-ultra-repair-collagen-P421793",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-eye-8",
+    "name": "Powerful-Strength Dark Circle Reducing Vitamin C Eye Serum",
+    "brand": "Kiehl's",
+    "category": "eye_cream",
+    "price": 52.0,
+    "rating": 4.4,
+    "review_count": 1800,
+    "ingredients": [
+      "Water",
+      "Vitamin C",
+      "Hyaluronic Acid",
+      "Tri-Peptide"
+    ],
+    "pros": [
+      "Brightens dark circles",
+      "Vitamin C for eye area",
+      "Firms under eyes",
+      "Trusted brand"
+    ],
+    "cons": [
+      "Can sting slightly",
+      "Expensive"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "dry"
+    ],
+    "addresses_concerns": [
+      "dark_spots",
+      "fine_lines"
+    ],
+    "source_url": "https://www.sephora.com/product/kiehls-vitamin-c-eye-serum-P421794",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-eye-9",
+    "name": "Rapid Wrinkle Repair Eye Cream",
+    "brand": "Neutrogena",
+    "category": "eye_cream",
+    "price": 22.99,
+    "rating": 4.3,
+    "review_count": 6700,
+    "ingredients": [
+      "Water",
+      "Retinol",
+      "Hyaluronic Acid",
+      "Glucose Complex"
+    ],
+    "pros": [
+      "Drugstore retinol eye cream",
+      "Reduces crow's feet",
+      "Accelerated retinol SA",
+      "Affordable"
+    ],
+    "cons": [
+      "Can irritate sensitive eyes",
+      "Basic packaging"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "dry"
+    ],
+    "addresses_concerns": [
+      "fine_lines",
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/neutrogena-rapid-wrinkle-repair-eye-P421795",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-eye-10",
+    "name": "Squalane + Peptide Eye Gel",
+    "brand": "Biossance",
+    "category": "eye_cream",
+    "price": 56.0,
+    "rating": 4.4,
+    "review_count": 1200,
+    "ingredients": [
+      "Water",
+      "Squalane",
+      "Peptide",
+      "Hyaluronic Acid"
+    ],
+    "pros": [
+      "Clean sustainable formula",
+      "Lightweight gel texture",
+      "Firms eye area",
+      "Vegan squalane"
+    ],
+    "cons": [
+      "Light for mature skin",
+      "Premium price"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "oily"
+    ],
+    "addresses_concerns": [
+      "sagging",
+      "fine_lines"
+    ],
+    "source_url": "https://www.sephora.com/product/biossance-squalane-peptide-eye-gel-P421796",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-eye-11",
+    "name": "Ferulic + Retinol Eye Cream",
+    "brand": "Dr. Dennis Gross",
+    "category": "eye_cream",
+    "price": 72.0,
+    "rating": 4.5,
+    "review_count": 900,
+    "ingredients": [
+      "Water",
+      "Retinol",
+      "Ferulic Acid",
+      "Caffeine"
+    ],
+    "pros": [
+      "Dermatologist formula",
+      "Fights wrinkles and dark circles",
+      "Potent antioxidant",
+      "Visible results"
+    ],
+    "cons": [
+      "Strong for sensitive eyes",
+      "Very expensive"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "dry",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "fine_lines",
+      "dark_spots",
+      "sagging"
+    ],
+    "source_url": "https://www.sephora.com/product/dr-dennis-gross-ferulic-retinol-eye-P421797",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-eye-12",
+    "name": "Violet-C Brightening Eye Cream",
+    "brand": "Tatcha",
+    "category": "eye_cream",
+    "price": 64.0,
+    "rating": 4.4,
+    "review_count": 1100,
+    "ingredients": [
+      "Water",
+      "Vitamin C",
+      "AHA",
+      "Japanese Beauty Berry"
+    ],
+    "pros": [
+      "Brightens under-eye area",
+      "Gentle vitamin C",
+      "Luxurious texture",
+      "Reduces dark circles"
+    ],
+    "cons": [
+      "Expensive",
+      "Light scent"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "dry",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "dark_spots",
+      "dullness",
+      "fine_lines"
+    ],
+    "source_url": "https://www.sephora.com/product/tatcha-violet-c-eye-cream-P421798",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-eye-13",
+    "name": "Total Eye 3-in-1 Renewal Therapy SPF 35",
+    "brand": "Supergoop!",
+    "category": "eye_cream",
+    "price": 38.0,
+    "rating": 4.3,
+    "review_count": 1400,
+    "ingredients": [
+      "Water",
+      "Zinc Oxide",
+      "Peptide",
+      "Caffeine"
+    ],
+    "pros": [
+      "SPF for eye area",
+      "Depuffs and brightens",
+      "3-in-1 treatment",
+      "Unique concept"
+    ],
+    "cons": [
+      "Mineral SPF texture",
+      "Can crease under concealer"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "sensitive"
+    ],
+    "addresses_concerns": [
+      "aging",
+      "dark_spots"
+    ],
+    "source_url": "https://www.sephora.com/product/supergoop-total-eye-spf-P421799",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-eye-14",
+    "name": "Black Tea Age-Delay Eye Concentrate",
+    "brand": "Fresh",
+    "category": "eye_cream",
+    "price": 68.0,
+    "rating": 4.5,
+    "review_count": 1300,
+    "ingredients": [
+      "Water",
+      "Black Tea",
+      "Niacinamide",
+      "Hyaluronic Acid"
+    ],
+    "pros": [
+      "Anti-aging eye treatment",
+      "Firms and lifts",
+      "Luxurious rich texture",
+      "Reduces puffiness"
+    ],
+    "cons": [
+      "Expensive",
+      "Rich for oily lids"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "sagging",
+      "fine_lines",
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/fresh-black-tea-eye-concentrate-P421800",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-eye-15",
+    "name": "Eye Repair Cream",
+    "brand": "La Mer",
+    "category": "eye_cream",
+    "price": 220.0,
+    "rating": 4.4,
+    "review_count": 500,
+    "ingredients": [
+      "Water",
+      "Miracle Broth",
+      "Lime Tea",
+      "Marine Algae"
+    ],
+    "pros": [
+      "Ultra-luxury eye cream",
+      "Intense repair",
+      "Status symbol product",
+      "Smooths fine lines"
+    ],
+    "cons": [
+      "Extremely expensive",
+      "Heavy texture"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "fine_lines",
+      "sagging",
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/la-mer-the-eye-concentrate-P421801",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-eye-16",
+    "name": "Snail Peptide Eye Cream",
+    "brand": "COSRX",
+    "category": "eye_cream",
+    "price": 22.0,
+    "rating": 4.3,
+    "review_count": 4800,
+    "ingredients": [
+      "Water",
+      "Snail Mucin",
+      "Peptide",
+      "Niacinamide"
+    ],
+    "pros": [
+      "K-beauty affordable eye cream",
+      "Hydrates eye area",
+      "Gentle daily use",
+      "Plumps fine lines"
+    ],
+    "cons": [
+      "Snail not vegan",
+      "Light for mature skin"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "sensitive"
+    ],
+    "addresses_concerns": [
+      "dehydration",
+      "fine_lines"
+    ],
+    "source_url": "https://www.sephora.com/product/cosrx-snail-peptide-eye-cream-P421802",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-eye-17",
+    "name": "Line-Plumping Eye Cream with Hyaluronic Acid",
+    "brand": "IT Cosmetics",
+    "category": "eye_cream",
+    "price": 42.0,
+    "rating": 4.3,
+    "review_count": 2100,
+    "ingredients": [
+      "Water",
+      "Hyaluronic Acid",
+      "Peptide",
+      "Collagen"
+    ],
+    "pros": [
+      "Plumps crow's feet",
+      "Makeup-friendly",
+      "Immediate smoothing",
+      "Good for mature skin"
+    ],
+    "cons": [
+      "Silicone feel",
+      "Fragrance"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "fine_lines",
+      "sagging"
+    ],
+    "source_url": "https://www.sephora.com/product/it-cosmetics-eye-cream-P421803",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-sun-7",
+    "name": "Glowscreen SPF 40",
+    "brand": "Supergoop!",
+    "category": "sunscreen",
+    "price": 38.0,
+    "rating": 4.5,
+    "review_count": 4800,
+    "ingredients": [
+      "Water",
+      "Avobenzone",
+      "Hyaluronic Acid",
+      "Niacinamide"
+    ],
+    "pros": [
+      "Dewy glowing finish",
+      "Makeup primer SPF",
+      "No white cast",
+      "Popular daily SPF"
+    ],
+    "cons": [
+      "Chemical filters",
+      "Can be greasy on oily skin"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "aging",
+      "dullness"
+    ],
+    "source_url": "https://www.sephora.com/product/supergoop-glowscreen-spf-40-P421804",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-sun-8",
+    "name": "City Skin Age Defense SPF 50",
+    "brand": "Murad",
+    "category": "sunscreen",
+    "price": 68.0,
+    "rating": 4.5,
+    "review_count": 2100,
+    "ingredients": [
+      "Water",
+      "Zinc Oxide",
+      "Iron Oxides",
+      "Vitamin C"
+    ],
+    "pros": [
+      "Blue light protection",
+      "Tinted mineral SPF",
+      "Anti-aging benefits",
+      "Urban pollution defense"
+    ],
+    "cons": [
+      "Expensive",
+      "Tint limited shades"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "sensitive"
+    ],
+    "addresses_concerns": [
+      "aging",
+      "dark_spots"
+    ],
+    "source_url": "https://www.sephora.com/product/murad-city-skin-age-defense-P421805",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-sun-9",
+    "name": "Silken Pore Perfecting Sunscreen SPF 35",
+    "brand": "Tatcha",
+    "category": "sunscreen",
+    "price": 62.0,
+    "rating": 4.4,
+    "review_count": 1400,
+    "ingredients": [
+      "Water",
+      "Zinc Oxide",
+      "Silk Extract",
+      "Japanese Wild Rose"
+    ],
+    "pros": [
+      "Blurs pores",
+      "Elegant Japanese SPF",
+      "Primer-like finish",
+      "No white cast"
+    ],
+    "cons": [
+      "Expensive",
+      "Light tint only"
+    ],
+    "suitable_skin_types": [
+      "combination",
+      "oily",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "pores",
+      "oiliness",
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/tatcha-silken-pore-perfecting-sunscreen-P421806",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-sun-10",
+    "name": "Daily UV Defense Sunscreen SPF 36",
+    "brand": "Kiehl's",
+    "category": "sunscreen",
+    "price": 32.0,
+    "rating": 4.4,
+    "review_count": 3200,
+    "ingredients": [
+      "Water",
+      "Avobenzone",
+      "Vitamin E",
+      "Glycerin"
+    ],
+    "pros": [
+      "Lightweight daily SPF",
+      "Trusted brand",
+      "No white cast",
+      "Affordable luxury"
+    ],
+    "cons": [
+      "Chemical sunscreen",
+      "Can sting eyes"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "dry"
+    ],
+    "addresses_concerns": [
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/kiehls-daily-uv-defense-P421807",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-sun-11",
+    "name": "Mineral Sunscreen SPF 30",
+    "brand": "Paula's Choice",
+    "category": "sunscreen",
+    "price": 32.0,
+    "rating": 4.3,
+    "review_count": 2800,
+    "ingredients": [
+      "Water",
+      "Zinc Oxide",
+      "Titanium Dioxide",
+      "Antioxidants"
+    ],
+    "pros": [
+      "Gentle mineral formula",
+      "Fragrance-free",
+      "Sensitive skin safe",
+      "Matte finish"
+    ],
+    "cons": [
+      "White cast on deep skin",
+      "Thick texture"
+    ],
+    "suitable_skin_types": [
+      "sensitive",
+      "oily",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "redness",
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/paulas-choice-mineral-sunscreen-P421808",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-sun-12",
+    "name": "Rice + Probiotics SPF 50",
+    "brand": "Beauty of Joseon",
+    "category": "sunscreen",
+    "price": 18.0,
+    "rating": 4.5,
+    "review_count": 8900,
+    "ingredients": [
+      "Water",
+      "Rice Extract",
+      "Probiotics",
+      "Niacinamide"
+    ],
+    "pros": [
+      "K-beauty viral SPF",
+      "No white cast",
+      "Lightweight essence texture",
+      "Affordable"
+    ],
+    "cons": [
+      "Chemical filters",
+      "Small tube"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "dry"
+    ],
+    "addresses_concerns": [
+      "aging",
+      "dullness"
+    ],
+    "source_url": "https://www.sephora.com/product/beauty-of-joseon-relief-sun-P421809",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-sun-13",
+    "name": "Protect + Glow Daily Sunscreen SPF 30",
+    "brand": "Glow Recipe",
+    "category": "sunscreen",
+    "price": 36.0,
+    "rating": 4.3,
+    "review_count": 1900,
+    "ingredients": [
+      "Water",
+      "Avobenzone",
+      "Niacinamide",
+      "Watermelon"
+    ],
+    "pros": [
+      "Glowy daily SPF",
+      "Lightweight",
+      "Pleasant scent",
+      "Makeup-friendly"
+    ],
+    "cons": [
+      "Scented",
+      "Chemical filters"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "dry",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "dullness",
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/glow-recipe-watermelon-glow-spf-P421810",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-sun-14",
+    "name": "Sport Active Sunscreen SPF 50",
+    "brand": "La Roche-Posay",
+    "category": "sunscreen",
+    "price": 29.99,
+    "rating": 4.5,
+    "review_count": 3400,
+    "ingredients": [
+      "Water",
+      "Avobenzone",
+      "Homosalate",
+      "Vitamin E"
+    ],
+    "pros": [
+      "Water resistant",
+      "Sport formula",
+      "French pharmacy quality",
+      "High protection"
+    ],
+    "cons": [
+      "Chemical filters",
+      "Can feel greasy"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "oily"
+    ],
+    "addresses_concerns": [
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/la-roche-posay-anthelios-sport-P421811",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-sun-15",
+    "name": "CC Screen 100% Mineral CC Cream SPF 50",
+    "brand": "Supergoop!",
+    "category": "sunscreen",
+    "price": 42.0,
+    "rating": 4.4,
+    "review_count": 2600,
+    "ingredients": [
+      "Water",
+      "Zinc Oxide",
+      "Titanium Dioxide",
+      "Apple Extract"
+    ],
+    "pros": [
+      "Mineral CC coverage",
+      "SPF and color correction",
+      "Clean formula",
+      "Multiple shades"
+    ],
+    "cons": [
+      "Can oxidize",
+      "Thick for oily skin"
+    ],
+    "suitable_skin_types": [
+      "sensitive",
+      "dry",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "dark_spots",
+      "redness",
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/supergoop-cc-screen-P421812",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-sun-16",
+    "name": "Hydra Vizor Invisible Moisturizer SPF 30",
+    "brand": "Fenty Skin",
+    "category": "sunscreen",
+    "price": 38.0,
+    "rating": 4.4,
+    "review_count": 3100,
+    "ingredients": [
+      "Water",
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Kalahari Melon"
+    ],
+    "pros": [
+      "Invisible on all skin tones",
+      "Hydrating SPF moisturizer",
+      "Rihanna brand",
+      "Reef-safe formula"
+    ],
+    "cons": [
+      "SPF 30 only",
+      "Can pill"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination",
+      "oily"
+    ],
+    "addresses_concerns": [
+      "dehydration",
+      "dark_spots"
+    ],
+    "source_url": "https://www.sephora.com/product/fenty-skin-hydra-vizor-P421813",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-mask-9",
+    "name": "Rare Earth Deep Pore Cleansing Mask",
+    "brand": "Kiehl's",
+    "category": "mask",
+    "price": 42.0,
+    "rating": 4.5,
+    "review_count": 3800,
+    "ingredients": [
+      "Water",
+      "Amazonian White Clay",
+      "Bentonite",
+      "Aloe Vera"
+    ],
+    "pros": [
+      "Deep pore cleansing",
+      "Mattifies oily skin",
+      "Visible pore reduction",
+      "Classic clay mask"
+    ],
+    "cons": [
+      "Drying for dry skin",
+      "Can tingle"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "pores",
+      "oiliness",
+      "acne"
+    ],
+    "source_url": "https://www.sephora.com/product/kiehls-rare-earth-mask-P421814",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-mask-10",
+    "name": "Hydrating Sleeping Mask",
+    "brand": "Laneige",
+    "category": "mask",
+    "price": 28.0,
+    "rating": 4.6,
+    "review_count": 7200,
+    "ingredients": [
+      "Water",
+      "Hyaluronic Acid",
+      "Evening Primrose",
+      "Apricot"
+    ],
+    "pros": [
+      "Overnight hydration mask",
+      "Wake up glowing",
+      "K-beauty bestseller",
+      "Gentle for all skin"
+    ],
+    "cons": [
+      "Too rich for oily",
+      "Scented"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "dehydration",
+      "dullness"
+    ],
+    "source_url": "https://www.sephora.com/product/laneige-water-sleeping-mask-P421815",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-mask-11",
+    "name": "ExfoliKate Intensive Exfoliating Treatment",
+    "brand": "Kate Somerville",
+    "category": "mask",
+    "price": 85.0,
+    "rating": 4.5,
+    "review_count": 2400,
+    "ingredients": [
+      "Water",
+      "Lactic Acid",
+      "Silica",
+      "Salicylic Acid"
+    ],
+    "pros": [
+      "2-minute facial results",
+      "Smooths instantly",
+      "Reduces pores",
+      "Celebrity facialist brand"
+    ],
+    "cons": [
+      "Strong for sensitive",
+      "Very expensive"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "oily",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "dullness",
+      "pores",
+      "fine_lines"
+    ],
+    "source_url": "https://www.sephora.com/product/kate-somerville-exfolikate-P421816",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-mask-12",
+    "name": "Clear Improvement Active Charcoal Mask",
+    "brand": "Origins",
+    "category": "mask",
+    "price": 28.0,
+    "rating": 4.4,
+    "review_count": 4100,
+    "ingredients": [
+      "Water",
+      "Bamboo Charcoal",
+      "White China Clay",
+      "Lecithin"
+    ],
+    "pros": [
+      "Draws out impurities",
+      "Refines pores",
+      "Affordable spa mask",
+      "Instant detox feel"
+    ],
+    "cons": [
+      "Drying",
+      "Not for dry sensitive skin"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "pores",
+      "acne",
+      "oiliness"
+    ],
+    "source_url": "https://www.sephora.com/product/origins-clear-improvement-mask-P421817",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-mask-13",
+    "name": "Honey Potion Plus Face Mask",
+    "brand": "Farmacy",
+    "category": "mask",
+    "price": 38.0,
+    "rating": 4.5,
+    "review_count": 1900,
+    "ingredients": [
+      "Water",
+      "Honey",
+      "Propolis",
+      "Royal Jelly"
+    ],
+    "pros": [
+      "Warming honey mask",
+      "Nourishing glow",
+      "Clean beauty",
+      "Hydrating treatment"
+    ],
+    "cons": [
+      "Warming sensation",
+      "Sticky texture"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal",
+      "sensitive"
+    ],
+    "addresses_concerns": [
+      "dehydration",
+      "dullness"
+    ],
+    "source_url": "https://www.sephora.com/product/farmacy-honey-potion-mask-P421818",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-mask-14",
+    "name": "Luminous Black Charcoal Peel-Off Mask",
+    "brand": "Boscia",
+    "category": "mask",
+    "price": 38.0,
+    "rating": 4.2,
+    "review_count": 1600,
+    "ingredients": [
+      "Water",
+      "Activated Charcoal",
+      "Willow Bark",
+      "Vitamin C"
+    ],
+    "pros": [
+      "Satisfying peel-off",
+      "Removes blackheads",
+      "Instant smooth skin",
+      "Fun treatment"
+    ],
+    "cons": [
+      "Painful peel",
+      "Not for sensitive"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "pores",
+      "acne"
+    ],
+    "source_url": "https://www.sephora.com/product/boscia-charcoal-peel-off-mask-P421819",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-mask-15",
+    "name": "Super Volcanic Pore Clay Mask",
+    "brand": "Innisfree",
+    "category": "mask",
+    "price": 18.0,
+    "rating": 4.4,
+    "review_count": 5200,
+    "ingredients": [
+      "Water",
+      "Volcanic Ash",
+      "Kaolin",
+      "AHA"
+    ],
+    "pros": [
+      "K-beauty pore mask",
+      "Affordable clay treatment",
+      "Absorbs excess oil",
+      "Refines texture"
+    ],
+    "cons": [
+      "Drying",
+      "Strong for sensitive"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "pores",
+      "oiliness"
+    ],
+    "source_url": "https://www.sephora.com/product/innisfree-super-volcanic-mask-P421820",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-mask-16",
+    "name": "Rapid Age Spot and Pigment Lightening Serum Mask",
+    "brand": "Murad",
+    "category": "mask",
+    "price": 75.0,
+    "rating": 4.3,
+    "review_count": 900,
+    "ingredients": [
+      "Water",
+      "Hydroquinone",
+      "Glycolic Acid",
+      "Hexapeptide"
+    ],
+    "pros": [
+      "Fades dark spots fast",
+      "Dermatologist formula",
+      "Clinical results",
+      "Targets hyperpigmentation"
+    ],
+    "cons": [
+      "Strong active ingredients",
+      "Expensive",
+      "Not for sensitive"
+    ],
+    "suitable_skin_types": [
+      "normal",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "dark_spots",
+      "dullness"
+    ],
+    "source_url": "https://www.sephora.com/product/murad-rapid-age-spot-mask-P421821",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-mask-17",
+    "name": "Avocado Melt Retinol Sleeping Face Mask",
+    "brand": "Glow Recipe",
+    "category": "mask",
+    "price": 48.0,
+    "rating": 4.4,
+    "review_count": 2100,
+    "ingredients": [
+      "Water",
+      "Avocado",
+      "Retinol",
+      "PHAs"
+    ],
+    "pros": [
+      "Gentle overnight retinol",
+      "Nourishing avocado",
+      "Wake up smooth",
+      "Pleasant scent"
+    ],
+    "cons": [
+      "Scented",
+      "Moderate retinol strength"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "fine_lines",
+      "dehydration",
+      "dullness"
+    ],
+    "source_url": "https://www.sephora.com/product/glow-recipe-avocado-retinol-mask-P421822",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-mask-18",
+    "name": "Cicapair Tiger Grass Calming Mask",
+    "brand": "Dr. Jart+",
+    "category": "mask",
+    "price": 42.0,
+    "rating": 4.5,
+    "review_count": 2800,
+    "ingredients": [
+      "Water",
+      "Centella Asiatica",
+      "Tiger Grass",
+      "Niacinamide"
+    ],
+    "pros": [
+      "Soothes redness instantly",
+      "K-beauty calming mask",
+      "Green-to-beige color",
+      "Post-procedure friendly"
+    ],
+    "cons": [
+      "Green tint",
+      "Moderate price"
+    ],
+    "suitable_skin_types": [
+      "sensitive",
+      "dry",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "redness",
+      "dehydration"
+    ],
+    "source_url": "https://www.sephora.com/product/dr-jart-cicapair-mask-P421823",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-mask-19",
+    "name": "Pro-Collagen Marine Cream Mask",
+    "brand": "Elemis",
+    "category": "mask",
+    "price": 68.0,
+    "rating": 4.5,
+    "review_count": 1100,
+    "ingredients": [
+      "Water",
+      "Padina Pavonica",
+      "Marine Algae",
+      "Ginkgo Biloba"
+    ],
+    "pros": [
+      "Spa-quality treatment",
+      "Firms and plumps",
+      "Luxurious cream mask",
+      "Instant lift effect"
+    ],
+    "cons": [
+      "Expensive",
+      "Rich for oily skin"
+    ],
+    "suitable_skin_types": [
+      "dry",
+      "normal"
+    ],
+    "addresses_concerns": [
+      "sagging",
+      "fine_lines",
+      "aging"
+    ],
+    "source_url": "https://www.sephora.com/product/elemis-pro-collagen-mask-P421824",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  },
+  {
+    "id": "prod-mask-20",
+    "name": "Pore Detox Black Charcoal Clay Stick",
+    "brand": "Ole Henriksen",
+    "category": "mask",
+    "price": 28.0,
+    "rating": 4.3,
+    "review_count": 1500,
+    "ingredients": [
+      "Water",
+      "Charcoal",
+      "Kaolin",
+      "Salicylic Acid"
+    ],
+    "pros": [
+      "Easy stick application",
+      "Targeted pore treatment",
+      "Travel-friendly",
+      "Mattifies T-zone"
+    ],
+    "cons": [
+      "Can be drying",
+      "Small stick size"
+    ],
+    "suitable_skin_types": [
+      "oily",
+      "combination"
+    ],
+    "addresses_concerns": [
+      "pores",
+      "acne",
+      "oiliness"
+    ],
+    "source_url": "https://www.sephora.com/product/ole-henriksen-pore-detox-stick-P421825",
+    "image_url": null,
+    "source": "Sephora",
+    "shipping_info": "Free shipping on orders $50+ (US)",
+    "benefits": []
+  }
+]
