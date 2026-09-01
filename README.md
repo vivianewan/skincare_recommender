@@ -15,7 +15,29 @@
 - **后端**：Python + FastAPI + BeautifulSoup（网页抓取）
 - **前端**：React + TypeScript + Tailwind CSS + Vite
 
-## 快速启动
+## 上线部署（GitHub Pages）
+
+本项目已配置 GitHub Actions 自动部署。请按以下步骤操作：
+
+1. 进入仓库 **Settings → Pages**
+2. 将 **Source** 改为 **GitHub Actions**（不要选 Deploy from a branch）
+3. 合并 PR 或推送到 `main` 分支后，Actions 会自动构建并发布
+
+访问地址：https://vivianewan.github.io/skincare_recommender/
+
+> GitHub Pages 为纯静态托管，线上版本使用内置 59 款产品库 + 前端推荐引擎，无需后端服务器。
+
+## 自定义网站图标
+
+点击页面左上角 logo 区域，可上传自己的图片作为网站图标（保存在浏览器本地，仅当前设备可见）。
+
+## 推荐逻辑说明
+
+- **不同肤质/困扰/预算** → 推荐结果不同
+- **相同条件** → 结果一致（确定性排序，方便对比）
+- 每个类别展示评分最高的 **5 款** 产品（产品库共 59 款）
+
+## 快速启动（本地开发）
 
 ```bash
 # 安装依赖

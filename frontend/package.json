@@ -4,7 +4,9 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "sync-products": "cp ../backend/data/products_seed.json public/products.json",
+    "prebuild": "npm run sync-products",
+    "dev": "npm run sync-products && vite",
     "build": "tsc -b && vite build",
     "lint": "oxlint",
     "preview": "vite preview"

@@ -210,7 +210,7 @@ def recommend_products(
     products: list[Product],
     profile: UserProfile,
     lang: Lang = Lang.ZH,
-    top_n: int = 3,
+    top_n: int = 5,
 ) -> dict[str, list[ProductRecommendation]]:
     categories = profile.categories or list(ProductCategory)
     results: dict[str, list[ProductRecommendation]] = {}

@@ -1,4 +1,6 @@
 import type { Lang } from './i18n/translations';
+import { buildMeta } from './lib/meta';
+import { recommendProducts } from './lib/recommender';
 
 export interface MetaOption {
   value: string;
@@ -54,35 +56,70 @@ export interface RecommendationResponse {
   recommendations: Record<string, ProductRecommendation[]>;
 }
 
-const API_BASE = '/api';
+const API_BASE = import.meta.env.VITE_API_BASE ?? '/api';
+const STATIC_MODE = import.meta.env.VITE_STATIC === 'true';
+
+export const isStaticMode = STATIC_MODE;
+
+let productsCache: Product[] | null = null;
+
+async function loadProducts(): Promise<Product[]> {
+  if (productsCache) return productsCache;
+  const base = import.meta.env.BASE_URL;
+  const res = await fetch(`${base}products.json`);
+  if (!res.ok) throw new Error('Failed to load products');
+  productsCache = await res.json();
+  return productsCache!;
+}
 
 function langParam(lang: Lang): string {
   return `lang=${lang}`;
 }
 
 export async function fetchMeta(lang: Lang): Promise<Meta> {
-  const res = await fetch(`${API_BASE}/meta?${langParam(lang)}`);
-  if (!res.ok) throw new Error('Failed to fetch meta');
-  return res.json();
+  if (STATIC_MODE) return buildMeta(lang);
+  try {
+    const res = await fetch(`${API_BASE}/meta?${langParam(lang)}`);
+    if (!res.ok) throw new Error('API unavailable');
+    return res.json();
+  } catch {
+    return buildMeta(lang);
+  }
 }
 
 export async function getRecommendations(
   profile: UserProfile,
   lang: Lang,
 ): Promise<RecommendationResponse> {
-  const res = await fetch(`${API_BASE}/recommend?${langParam(lang)}`, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(profile),
-  });
-  if (!res.ok) throw new Error('Failed to get recommendations');
-  return res.json();
+  if (STATIC_MODE) {
+    const products = await loadProducts();
+    const recommendations = recommendProducts(products, profile, lang);
+    return { profile, recommendations };
+  }
+  try {
+    const res = await fetch(`${API_BASE}/recommend?${langParam(lang)}`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(profile),
+    });
+    if (!res.ok) throw new Error('API unavailable');
+    return res.json();
+  } catch {
+    const products = await loadProducts();
+    const recommendations = recommendProducts(products, profile, lang);
+    return { profile, recommendations };
+  }
 }
 
 export async function refreshProductData(): Promise<{
   message: string;
   total_products: number;
 }> {
+  if (STATIC_MODE) {
+    productsCache = null;
+    const products = await loadProducts();
+    return { message: 'Static product library loaded', total_products: products.length };
+  }
   const res = await fetch(`${API_BASE}/scrape/refresh`, { method: 'POST' });
   if (!res.ok) throw new Error('Failed to refresh data');
   return res.json();

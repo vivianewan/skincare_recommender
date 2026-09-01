@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import {
   fetchMeta,
   getRecommendations,
+  isStaticMode,
   refreshProductData,
   type Meta,
   type RecommendationResponse,
@@ -9,6 +10,7 @@ import {
 } from './api';
 import { useLanguage } from './i18n/LanguageContext';
 import LanguageSwitcher from './components/LanguageSwitcher';
+import LogoUpload from './components/LogoUpload';
 import SkinProfileForm from './components/SkinProfileForm';
 import RecommendationResults from './components/RecommendationResults';
 
@@ -71,22 +73,22 @@ function App() {
       <header className="bg-white/80 backdrop-blur-md border-b border-gray-100 sticky top-0 z-50">
         <div className="max-w-4xl mx-auto px-4 py-4 flex items-center justify-between gap-4">
           <div className="flex items-center gap-3 min-w-0">
-            <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-brand-400 to-rose-400 flex items-center justify-center text-white text-lg flex-shrink-0">
-              ✨
-            </div>
+            <LogoUpload />
             <div className="min-w-0">
               <h1 className="text-xl font-bold text-gray-900 truncate">{t('app.title')}</h1>
               <p className="text-xs text-gray-500 truncate">{t('app.subtitle')}</p>
             </div>
           </div>
           <div className="flex items-center gap-2 flex-shrink-0">
-            <button
-              onClick={handleRefresh}
-              disabled={refreshing}
-              className="hidden sm:block text-xs px-3 py-1.5 rounded-lg border border-gray-200 text-gray-600 hover:bg-gray-50 disabled:opacity-50"
-            >
-              {refreshing ? t('app.refreshing') : t('app.refresh')}
-            </button>
+            {!isStaticMode && (
+              <button
+                onClick={handleRefresh}
+                disabled={refreshing}
+                className="hidden sm:block text-xs px-3 py-1.5 rounded-lg border border-gray-200 text-gray-600 hover:bg-gray-50 disabled:opacity-50"
+              >
+                {refreshing ? t('app.refreshing') : t('app.refresh')}
+              </button>
+            )}
             <LanguageSwitcher />
           </div>
         </div>
