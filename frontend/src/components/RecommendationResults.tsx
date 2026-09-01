@@ -26,7 +26,7 @@ function StarRating({ rating }: { rating: number }) {
 
 function ProductCard({ rec, rank }: { rec: ProductRecommendation; rank: number }) {
   const { t } = useLanguage();
-  const { product, match_score, match_reasons, warnings } = rec;
+  const { product, warnings } = rec;
 
   return (
     <div className="bg-white rounded-2xl border border-gray-100 shadow-sm hover:shadow-md transition-shadow overflow-hidden">
@@ -106,17 +106,6 @@ function ProductCard({ rec, rank }: { rec: ProductRecommendation; rank: number }
               )}
             </ul>
           </div>
-        </div>
-
-        <div className="bg-brand-50 rounded-xl p-3 mb-2 border border-brand-100">
-          <p className="text-xs font-medium text-brand-700 mb-1">
-            {t('product.match')} {match_score.toFixed(1)} — {t('product.matchReasons')}
-          </p>
-          <ul className="space-y-0.5">
-            {match_reasons.map((reason, i) => (
-              <li key={i} className="text-xs text-brand-800">✓ {reason}</li>
-            ))}
-          </ul>
         </div>
 
         {warnings.length > 0 && (
