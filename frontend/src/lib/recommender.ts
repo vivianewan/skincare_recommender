@@ -111,6 +111,26 @@ function msg(lang: Lang, key: string, vars: Record<string, string | number>): st
   return text;
 }
 
+function concernRelevance(product: Product, profile: UserProfile): boolean {
+  if (profile.concerns.length === 0) return true;
+
+  const user = new Set(profile.concerns);
+  const productConcerns = new Set(product.addresses_concerns);
+  for (const c of user) {
+    if (productConcerns.has(c)) return true;
+  }
+
+  const ingredientsLower = product.ingredients.map((i) => i.toLowerCase());
+  for (const ingredient of ingredientsLower) {
+    const benefits = INGREDIENT_BENEFITS[ingredient] ?? {};
+    for (const concern of profile.concerns) {
+      if ((benefits[concern] ?? 0) >= 0.8) return true;
+    }
+  }
+
+  return false;
+}
+
 function scoreProduct(product: Product, profile: UserProfile, lang: Lang): ProductRecommendation {
   if (profile.budget_max && product.price > profile.budget_max) {
     return {
@@ -201,6 +221,15 @@ function scoreProduct(product: Product, profile: UserProfile, lang: Lang): Produ
   if (profile.age_range === '35-45' || profile.age_range === '45+') {
     const ageIngs = ['retinol', 'peptide', 'proxylane', 'bakuchiol'];
     if (ingredientsLower.some((i) => ageIngs.some((a) => i.includes(a)))) score += 1;
+  }
+
+  if (profile.concerns.length > 0 && !concernRelevance(product, profile)) {
+    return {
+      product: { ...product, benefits: deriveBenefits(product.addresses_concerns, lang, product.benefits) },
+      match_score: 0,
+      match_reasons: [],
+      warnings,
+    };
   }
 
   const uniqueReasons = [...new Set(reasons)].slice(0, 5);

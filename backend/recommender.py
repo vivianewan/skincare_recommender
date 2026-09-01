@@ -64,6 +64,26 @@ def _skin_label(lang: Lang, skin: SkinType) -> str:
     return SKIN_TYPE_LABELS[lang][skin]
 
 
+def _concern_relevance(product: Product, profile: UserProfile) -> bool:
+    """Product must target at least one user concern (not just high rating)."""
+    if not profile.concerns:
+        return True
+
+    user = {c.value for c in profile.concerns}
+    product_addrs = {c.value for c in product.addresses_concerns}
+    if user & product_addrs:
+        return True
+
+    ingredients_lower = [i.lower() for i in product.ingredients]
+    for ingredient in ingredients_lower:
+        benefits = INGREDIENT_SKIN_BENEFITS.get(ingredient, {})
+        for concern in profile.concerns:
+            if concern.value in benefits and benefits[concern.value] >= 0.8:
+                return True
+
+    return False
+
+
 def _ingredient_match_score(
     product: Product, profile: UserProfile, lang: Lang
 ) -> tuple[float, list[str]]:
@@ -196,6 +216,14 @@ def score_product(
     ing_score, ing_reasons = _ingredient_match_score(product, profile, lang)
     rev_score, rev_reasons, warnings = _review_match_score(product, profile, lang)
 
+    if profile.concerns and not _concern_relevance(product, profile):
+        return ProductRecommendation(
+            product=product,
+            match_score=0,
+            match_reasons=[],
+            warnings=warnings,
+        )
+
     total = ing_score + rev_score
     all_reasons = list(dict.fromkeys(ing_reasons + rev_reasons))[:5]
 
@@ -207,14 +235,14 @@ def score_product(
     )
 
 
-def _sort_by_rating_price(rec: ProductRecommendation) -> tuple[float, float]:
-    return (-rec.product.rating, rec.product.price)
+def _sort_results(rec: ProductRecommendation) -> tuple[float, float, float]:
+    return (-rec.match_score, -rec.product.rating, rec.product.price)
 
 
 def _select_varied_recommendations(
     scored: list[ProductRecommendation],
     top_n: int = 5,
-    pool_size: int = 15,
+    pool_size: int = 10,
 ) -> list[ProductRecommendation]:
     qualified = [s for s in scored if s.match_score > 0]
     if not qualified:
@@ -226,7 +254,7 @@ def _select_varied_recommendations(
     shuffled = pool.copy()
     random.shuffle(shuffled)
     selected = shuffled[: min(top_n, len(shuffled))]
-    return sorted(selected, key=_sort_by_rating_price)
+    return sorted(selected, key=_sort_results)
 
 
 def recommend_products(

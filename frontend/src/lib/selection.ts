@@ -1,7 +1,13 @@
 import type { ProductRecommendation } from '../api';
 
-/** Sort by rating (high → low), then price (low → high). */
-export function sortByRatingThenPrice(a: ProductRecommendation, b: ProductRecommendation): number {
+/** Sort by match relevance, then rating (high → low), then price (low → high). */
+export function sortResults(
+  a: ProductRecommendation,
+  b: ProductRecommendation,
+): number {
+  if (b.match_score !== a.match_score) {
+    return b.match_score - a.match_score;
+  }
   if (b.product.rating !== a.product.rating) {
     return b.product.rating - a.product.rating;
   }
@@ -10,12 +16,12 @@ export function sortByRatingThenPrice(a: ProductRecommendation, b: ProductRecomm
 
 /**
  * Pick up to `topN` products with slight random variation.
- * Candidates come from the best-matching pool, then final order is rating → price.
+ * Only products that genuinely match user concerns enter the pool.
  */
 export function selectVariedRecommendations(
   scored: ProductRecommendation[],
   topN = 5,
-  poolSize = 15,
+  poolSize = 10,
 ): ProductRecommendation[] {
   const qualified = scored.filter((s) => s.match_score > 0);
   if (qualified.length === 0) return [];
@@ -30,5 +36,5 @@ export function selectVariedRecommendations(
     [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
   }
 
-  return shuffled.slice(0, Math.min(topN, shuffled.length)).sort(sortByRatingThenPrice);
+  return shuffled.slice(0, Math.min(topN, shuffled.length)).sort(sortResults);
 }
