@@ -5,6 +5,7 @@ from i18n import (
     MESSAGES,
     SKIN_TYPE_LABELS,
 )
+import random
 from models import (
     Product,
     ProductCategory,
@@ -206,6 +207,28 @@ def score_product(
     )
 
 
+def _sort_by_rating_price(rec: ProductRecommendation) -> tuple[float, float]:
+    return (-rec.product.rating, rec.product.price)
+
+
+def _select_varied_recommendations(
+    scored: list[ProductRecommendation],
+    top_n: int = 5,
+    pool_size: int = 15,
+) -> list[ProductRecommendation]:
+    qualified = [s for s in scored if s.match_score > 0]
+    if not qualified:
+        return []
+
+    pool = sorted(qualified, key=lambda x: x.match_score, reverse=True)[
+        : min(pool_size, len(qualified))
+    ]
+    shuffled = pool.copy()
+    random.shuffle(shuffled)
+    selected = shuffled[: min(top_n, len(shuffled))]
+    return sorted(selected, key=_sort_by_rating_price)
+
+
 def recommend_products(
     products: list[Product],
     profile: UserProfile,
@@ -218,9 +241,7 @@ def recommend_products(
     for category in categories:
         category_products = [p for p in products if p.category == category]
         scored = [score_product(p, profile, lang) for p in category_products]
-        scored = [s for s in scored if s.match_score > 0]
-        scored.sort(key=lambda x: x.match_score, reverse=True)
-        results[category.value] = scored[:top_n]
+        results[category.value] = _select_varied_recommendations(scored, top_n)
 
     return results
 

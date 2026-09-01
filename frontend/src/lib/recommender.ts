@@ -1,6 +1,7 @@
 import type { Lang } from '../i18n/translations';
 import type { Product, ProductRecommendation, UserProfile } from '../api';
 import { deriveBenefits } from './meta';
+import { selectVariedRecommendations } from './selection';
 
 const INGREDIENT_BENEFITS: Record<string, Record<string, number>> = {
   'hyaluronic acid': { dry: 1.0, dehydration: 1.0, combination: 0.5, normal: 0.3, fine_lines: 0.8 },
@@ -230,10 +231,8 @@ export function recommendProducts(
   for (const category of categories) {
     const scored = products
       .filter((p) => p.category === category)
-      .map((p) => scoreProduct(p, profile, lang))
-      .filter((s) => s.match_score > 0)
-      .sort((a, b) => b.match_score - a.match_score);
-    results[category] = scored.slice(0, topN);
+      .map((p) => scoreProduct(p, profile, lang));
+    results[category] = selectVariedRecommendations(scored, topN);
   }
 
   return results;
