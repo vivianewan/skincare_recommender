@@ -134,7 +134,7 @@ function ProductCard({ rec, rank }: { rec: ProductRecommendation; rank: number }
             rel="noopener noreferrer"
             className="inline-block mt-3 text-xs text-brand-600 hover:text-brand-800 underline"
           >
-            {t('product.viewOn', { source: product.source })}
+            {t('product.viewOn')}
           </a>
         )}
       </div>
