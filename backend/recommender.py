@@ -235,6 +235,53 @@ def score_product(
     )
 
 
+def _normalize_name(name: str) -> str:
+    import re
+
+    s = name.lower().replace("masque", "mask").replace("crème", "cream").replace(
+        "creme", "cream"
+    )
+    s = re.sub(r"[^a-z0-9\s]", " ", s)
+    s = re.sub(
+        r"\b(the|a|an|and|with|for|of|in|to|plus|mini|duo|set|refill|travel|"
+        r"face|facial|acne|clay|clearing|pore|pores|daily|advanced|formula)\b",
+        " ",
+        s,
+    )
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def _is_near_duplicate_name(a: str, b: str) -> bool:
+    na, nb = _normalize_name(a), _normalize_name(b)
+    if not na or not nb:
+        return False
+    if na == nb:
+        return True
+    if na in nb or nb in na:
+        shorter = na if len(na) <= len(nb) else nb
+        return len([t for t in shorter.split() if t]) >= 3
+    return False
+
+
+def _dedupe_recommendations(
+    items: list[ProductRecommendation],
+) -> list[ProductRecommendation]:
+    """Drop same-brand near-identical SKUs; keep first (preferred) occurrence."""
+    kept: list[ProductRecommendation] = []
+    for item in items:
+        brand = item.product.brand.lower().strip()
+        is_dup = False
+        for existing in kept:
+            if existing.product.brand.lower().strip() != brand:
+                continue
+            if _is_near_duplicate_name(existing.product.name, item.product.name):
+                is_dup = True
+                break
+        if not is_dup:
+            kept.append(item)
+    return kept
+
+
 def _sort_results(rec: ProductRecommendation) -> tuple[float, int, float]:
     """rating ↓, review_count ↓, price ↓ (within selected budget)."""
     return (-rec.product.rating, -rec.product.review_count, -rec.product.price)
@@ -249,13 +296,13 @@ def _select_varied_recommendations(
     if not qualified:
         return []
 
-    pool = sorted(qualified, key=lambda x: x.match_score, reverse=True)[
-        : min(pool_size, len(qualified))
-    ]
+    pool = _dedupe_recommendations(
+        sorted(qualified, key=lambda x: x.match_score, reverse=True)
+    )[: min(pool_size, len(qualified))]
     shuffled = pool.copy()
     random.shuffle(shuffled)
-    selected = shuffled[: min(top_n, len(shuffled))]
-    return sorted(selected, key=_sort_results)
+    selected = shuffled[: min(top_n * 2, len(shuffled))]
+    return _dedupe_recommendations(sorted(selected, key=_sort_results))[:top_n]
 
 
 def recommend_products(
