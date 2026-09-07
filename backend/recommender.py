@@ -235,8 +235,9 @@ def score_product(
     )
 
 
-def _sort_results(rec: ProductRecommendation) -> tuple[float, float, float]:
-    return (-rec.match_score, -rec.product.rating, rec.product.price)
+def _sort_results(rec: ProductRecommendation) -> tuple[float, int, float]:
+    """rating ↓, review_count ↓, price ↓ (within selected budget)."""
+    return (-rec.product.rating, -rec.product.review_count, -rec.product.price)
 
 
 def _select_varied_recommendations(

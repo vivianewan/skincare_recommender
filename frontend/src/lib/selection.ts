@@ -1,17 +1,22 @@
 import type { ProductRecommendation } from '../api';
 
-/** Sort by match relevance, then rating (high → low), then price (low → high). */
+/**
+ * Display order:
+ * 1. rating high → low
+ * 2. same rating → review_count high → low
+ * 3. still tied → price high → low (within selected budget range)
+ */
 export function sortResults(
   a: ProductRecommendation,
   b: ProductRecommendation,
 ): number {
-  if (b.match_score !== a.match_score) {
-    return b.match_score - a.match_score;
-  }
   if (b.product.rating !== a.product.rating) {
     return b.product.rating - a.product.rating;
   }
-  return a.product.price - b.product.price;
+  if (b.product.review_count !== a.product.review_count) {
+    return b.product.review_count - a.product.review_count;
+  }
+  return b.product.price - a.product.price;
 }
 
 /**

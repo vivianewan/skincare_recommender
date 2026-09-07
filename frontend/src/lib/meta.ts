@@ -40,16 +40,16 @@ const CONCERN_LABELS: Record<Lang, Record<string, string>> = {
 const CATEGORY_LABELS: Record<Lang, Record<string, string>> = {
   en: {
     cleanser: 'Cleanser', toner: 'Toner', serum: 'Serum', day_cream: 'Day Cream',
-    night_cream: 'Night Cream', eye_cream: 'Eye Cream', sunscreen: 'Sunscreen', mask: 'Mask',
+    night_cream: 'Night Cream', eye_cream: 'Eye Cream', sunscreen: 'Sunscreen', mask: 'Mask/Treatment',
   },
   fr: {
     cleanser: 'Nettoyant', toner: 'Tonique', serum: 'Sérum', day_cream: 'Crème de jour',
     night_cream: 'Crème de nuit', eye_cream: 'Contour des yeux',
-    sunscreen: 'Protection solaire', mask: 'Masque',
+    sunscreen: 'Protection solaire', mask: 'Masque/Soin',
   },
   zh: {
     cleanser: '洗面奶', toner: '护肤水', serum: '精华', day_cream: '日霜',
-    night_cream: '晚霜', eye_cream: '眼霜', sunscreen: '防晒', mask: '面膜',
+    night_cream: '晚霜', eye_cream: '眼霜', sunscreen: '防晒', mask: '面膜/护理',
   },
 };
 

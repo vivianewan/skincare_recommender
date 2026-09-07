@@ -93,7 +93,7 @@ CATEGORY_LABELS: dict[Lang, dict[ProductCategory, str]] = {
         ProductCategory.NIGHT_CREAM: "Night Cream",
         ProductCategory.EYE_CREAM: "Eye Cream",
         ProductCategory.SUNSCREEN: "Sunscreen",
-        ProductCategory.MASK: "Mask",
+        ProductCategory.MASK: "Mask/Treatment",
     },
     Lang.FR: {
         ProductCategory.CLEANSER: "Nettoyant",
@@ -103,7 +103,7 @@ CATEGORY_LABELS: dict[Lang, dict[ProductCategory, str]] = {
         ProductCategory.NIGHT_CREAM: "Crème de nuit",
         ProductCategory.EYE_CREAM: "Contour des yeux",
         ProductCategory.SUNSCREEN: "Protection solaire",
-        ProductCategory.MASK: "Masque",
+        ProductCategory.MASK: "Masque/Soin",
     },
     Lang.ZH: {
         ProductCategory.CLEANSER: "洗面奶",
@@ -113,7 +113,7 @@ CATEGORY_LABELS: dict[Lang, dict[ProductCategory, str]] = {
         ProductCategory.NIGHT_CREAM: "晚霜",
         ProductCategory.EYE_CREAM: "眼霜",
         ProductCategory.SUNSCREEN: "防晒",
-        ProductCategory.MASK: "面膜",
+        ProductCategory.MASK: "面膜/护理",
     },
 }
 
